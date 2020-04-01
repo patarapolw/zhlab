@@ -1,0 +1,11 @@
+template: |
+  
+  {{front}}
+
+  ===
+
+  {{back}}
+
+  ===
+  
+  {\{{speak-js.markdown}}}

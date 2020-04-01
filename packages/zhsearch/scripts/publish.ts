@@ -13,9 +13,7 @@ import hbs from 'handlebars'
 
   const cards: any[] = []
 
-  Object.entries(lvs).map(([lv, vs], i) => {
-    if (!i) return
-
+  Object.entries(lvs).map(([lv, vs]) => {
     vs.map((v) => {
       const simp = v
       let trad = v
@@ -70,24 +68,6 @@ import hbs from 'handlebars'
           deck: hbs.compile('zh/HSK/{{template}}/{{levelRange}}/{{level}}')({
             levelRange: [' 1-10', '11-20', '21-30', '31-40', '41-50', '51-60'][Math.floor((parseInt(lv) - 1) / 10)],
             level: lv.padStart(2, ' '),
-            template: 'SE'
-          }),
-          tag: ['HSK'],
-          ref: ['speak-js'],
-          markdown: hbs.compile(template)({
-            front: pinyin,
-            back: [
-              `# ${simp}`,
-              trad,
-              english,
-              ss.map((s) => `- ${s.chinese}\n` + `  - ${s.english}`).join('\n')
-            ].filter((el) => el).join('\n\n')
-          })
-        },
-        {
-          deck: hbs.compile('zh/HSK/{{template}}/{{levelRange}}/{{level}}')({
-            levelRange: [' 1-10', '11-20', '21-30', '31-40', '41-50', '51-60'][Math.floor((parseInt(lv) - 1) / 10)],
-            level: lv.padStart(2, ' '),
             template: 'EC'
           }),
           tag: ['HSK'],
@@ -131,7 +111,7 @@ import hbs from 'handlebars'
 
   while (cards.length > 0) {
     const entries = cards.splice(0, 100)
-    console.log(entries.map(el => el.deck))
+    console.log(entries.map(el => el.deck).filter((el, i, arr) => arr.indexOf(el) === i))
     await axios.put('http://localhost:24000/api/edit/multi', {
       entries
     })

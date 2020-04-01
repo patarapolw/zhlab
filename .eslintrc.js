@@ -22,5 +22,7 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
+    'spaced-comment': 0,
+    quotes: 0
   }
 }

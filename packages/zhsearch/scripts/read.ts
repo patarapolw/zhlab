@@ -2,46 +2,76 @@ import fs from 'fs'
 
 import yaml from 'js-yaml'
 import bSqlite3 from 'better-sqlite3'
+import axios from 'axios'
+import cheerio from 'cheerio'
 
-const db = bSqlite3('zh.db')
-const lv: Record<string, string[]> = yaml.safeLoad(fs.readFileSync('hsk.yaml', 'utf8'))
-const toBeConsidered: Record<string, Record<string, any>> = {}
+;(async () => {
+  const db = bSqlite3('zh.db')
+  const lvs: Record<string, string[]> = yaml.safeLoad(fs.readFileSync('hsk.yaml', 'utf8'))
+  const ambi: Record<string, Record<string, any>> = yaml.safeLoad(fs.readFileSync('hsk-ambiguous.yaml', 'utf8'))
 
-Object.entries(lv).map(([k, vs]) => {
-  toBeConsidered[k] = {}
+  const promises = [] as Promise<any>[]
 
-  vs.map((v) => {
-    const r = db.prepare(/*sql*/`
-      SELECT
-        simplified, traditional, pinyin, english
-      FROM vocab
-      WHERE simplified = ?
-    `).all(v)
+  Object.entries(lvs).map(([lv, vs]) => {
+    vs.map((v) => {
+      const simp = v
+      let trad = v
 
-    if (r.length > 1) {
-      toBeConsidered[k][v] = {
-        simplified: joinIfNotDistinct(r.map((el) => el.simplified)),
-        traditional: joinIfNotDistinct(r.map((el) => el.traditional)),
-        pinyin: joinIfNotDistinct(r.map((el) => el.pinyin)),
-        english: joinIfNotDistinct(r.map((el) => el.english))
+      if (!ambi[lv][v]) {
+        const r0 = db.prepare(/*sql*/`
+        SELECT
+          traditional
+        FROM vocab
+        WHERE simplified = ?
+      `).get(v)
+
+        trad = r0.traditional || trad
       }
-    } else if (r.length === 0) {
-      toBeConsidered[k][v] = {}
-    }
+
+      const r = db.prepare(/*sql*/`
+        SELECT
+          chinese
+        FROM sentence
+        WHERE (chinese LIKE ? OR chinese LIKE ?)
+        LIMIT 10
+      `).all(`%${simp}%`, `%${trad[0]}%`)
+
+      if (r.length <= 5) {
+        promises.push((async () => {
+          await new Promise((resolve) => setTimeout(resolve, promises.length * 1000))
+
+          const r0 = await axios.get('http://www.jukuu.com/search.php', {
+            params: {
+              q: simp
+            },
+            validateStatus: () => true,
+            transformResponse: (data) => data
+          })
+          console.log(`Downloading: ${v}`)
+
+          const $ = cheerio.load(r0.data)
+          const cs = $('tr.c').toArray().map((el) => $(el).text())
+          const es = $('tr.e').toArray().map((el) => $(el).text())
+
+          if (cs.length === 0) {
+            console.log(`${v} not available.`)
+            console.log(r0.status)
+            console.log()
+          }
+
+          cs.map((c, i) => {
+            db.prepare(/*sql*/`
+              INSERT INTO sentence (chinese, english)
+              VALUES (?, ?)
+              ON CONFLICT DO NOTHING
+            `).run(c, es[i])
+          })
+        })())
+      }
+    })
   })
-})
 
-db.close()
+  await Promise.all(promises)
 
-fs.writeFileSync('out/hsk-ambiguous.yaml', yaml.safeDump(toBeConsidered, {
-  sortKeys: true
-}))
-
-function joinIfNotDistinct<T> (arr: T[]) {
-  const r = arr.filter((a) => a).filter((a, i, r0) => r0.indexOf(a) === i)
-  if (r.length > 1) {
-    return r.map((a) => `- ${a}`).join('\n')
-  }
-
-  return `${r[0] || ''}`
-}
+  db.close()
+})().catch(console.error)

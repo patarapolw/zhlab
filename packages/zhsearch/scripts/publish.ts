@@ -9,14 +9,17 @@ import hbs from 'handlebars'
   const db = bSqlite3('zh.db')
   const lvs: Record<string, string[]> = yaml.safeLoad(fs.readFileSync('hsk.yaml', 'utf8'))
   const ambi: Record<string, Record<string, any>> = yaml.safeLoad(fs.readFileSync('hsk-ambiguous.yaml', 'utf8'))
-  const { template } = yaml.safeLoad(fs.readFileSync('template.yaml', 'utf8'))
+  const { template, speakJs } = yaml.safeLoad(fs.readFileSync('template.yaml', 'utf8'))
 
-  const cards: any[] = []
+  const cards: any[] = [{
+    key: 'speak-js',
+    markdown: speakJs
+  }]
 
   Object.entries(lvs).map(([lv, vs]) => {
     vs.map((v) => {
-      const simp = v
-      let trad = v
+      const simplified = v
+      let traditional = ''
       let pinyin = ''
       let english = ''
 
@@ -28,11 +31,11 @@ import hbs from 'handlebars'
           WHERE simplified = ?
         `).get(v)
 
-        trad = r0.traditional || trad
+        traditional = r0.traditional || ''
         pinyin = r0.pinyin
         english = r0.english
       } else {
-        trad = ambi[lv][v].traditional || ''
+        traditional = ambi[lv][v].traditional || ''
         pinyin = ambi[lv][v].pinyin
         english = ambi[lv][v].english
       }
@@ -43,63 +46,72 @@ import hbs from 'handlebars'
         FROM sentence
         WHERE chinese LIKE ?
         LIMIT 10
-      `).all(`%${simp}%`)
+      `).all(`%${simplified}%`)
 
       cards.push(
         {
-          deck: hbs.compile('zh/HSK/{{template}}/{{levelRange}}/{{level}}')({
+          key: `hsk-${simplified}-data`,
+          tag: ['HSK'],
+          data: {
+            traditional: traditional.replace(/[- \n]/g, '').split('').join(' | '),
+            pinyin,
+            english,
+            sentence: ss.map((s) => `- ${s.chinese}\n` + `    - ${s.english}`).join('\n')
+          }
+        },
+        {
+          deck: hbs.compile('zh/hsk/{{template}}/{{levelRange}}/{{level}}')({
             levelRange: [' 1-10', '11-20', '21-30', '31-40', '41-50', '51-60'][Math.floor((parseInt(lv) - 1) / 10)],
             level: lv.padStart(2, ' '),
-            template: 'SE'
+            template: '1. Simplified-English'
           }),
           tag: ['HSK'],
-          ref: ['speak-js'],
+          ref: ['speak-js', `hsk-${simplified}-data`],
           markdown: hbs.compile(template)({
-            front: `# ${simp}`,
+            front: `# ${simplified}`,
             back: [
-              trad,
-              pinyin,
-              english,
-              ss.map((s) => `- ${s.chinese}\n` + `  - ${s.english}`).join('\n')
-            ].filter((el) => el).join('\n\n')
+              `{{hsk-${simplified}-data.data.traditional}}`,
+              `{{hsk-${simplified}-data.data.pinyin}}`,
+              `{{hsk-${simplified}-data.data.english}}`,
+              `{{hsk-${simplified}-data.data.sentence}}`
+            ].filter((el) => el).join('\n\n---\n\n')
           })
         },
         {
-          deck: hbs.compile('zh/HSK/{{template}}/{{levelRange}}/{{level}}')({
+          deck: hbs.compile('zh/hsk/{{template}}/{{levelRange}}/{{level}}')({
             levelRange: [' 1-10', '11-20', '21-30', '31-40', '41-50', '51-60'][Math.floor((parseInt(lv) - 1) / 10)],
             level: lv.padStart(2, ' '),
-            template: 'EC'
+            template: '2. English-Chinese'
           }),
           tag: ['HSK'],
-          ref: ['speak-js'],
+          ref: ['speak-js', `hsk-${simplified}-data`],
           markdown: hbs.compile(template)({
-            front: english,
+            front: `{{hsk-${simplified}-data.data.english}}`,
             back: [
-              `# ${simp}`,
-              trad,
-              pinyin,
-              english,
-              ss.map((s) => `- ${s.chinese}\n` + `  - ${s.english}`).join('\n')
-            ].filter((el) => el).join('\n\n')
+              `# ${simplified}`,
+              `{{hsk-${simplified}-data.data.traditional}}`,
+              `{{hsk-${simplified}-data.data.pinyin}}`,
+              `{{hsk-${simplified}-data.data.sentence}}`
+            ].filter((el) => el).join('\n\n---\n\n')
           })
         },
-        ...(trad ? [
+        ...(traditional ? [
           {
-            deck: hbs.compile('zh/HSK/{{template}}/{{levelRange}}/{{level}}')({
+            deck: hbs.compile('zh/hsk/{{template}}/{{levelRange}}/{{level}}')({
               levelRange: [' 1-10', '11-20', '21-30', '31-40', '41-50', '51-60'][Math.floor((parseInt(lv) - 1) / 10)],
               level: lv.padStart(2, ' '),
-              template: 'TE'
+              template: '3. Traditional-Chinese'
             }),
             tag: ['HSK'],
-            ref: ['speak-js'],
+            ref: ['speak-js', `hsk-${simplified}-data`],
             markdown: hbs.compile(template)({
-              front: trad.startsWith('-') ? trad.replace(/-/g, '#') : `# ${trad}`,
+              front: `# {{hsk-${simplified}-data.data.traditional}}`,
               back: [
-                `# ${simp}`,
-                pinyin,
-                english,
-                ss.map((s) => `- ${s.chinese}\n` + `  - ${s.english}`).join('\n')
-              ].filter((el) => el).join('\n\n')
+                `# ${simplified}`,
+                `{{hsk-${simplified}-data.data.pinyin}}`,
+                `{{hsk-${simplified}-data.data.english}}`,
+                `{{hsk-${simplified}-data.data.sentence}}`
+              ].filter((el) => el).join('\n\n---\n\n')
             })
           }
         ] : [])
@@ -112,8 +124,12 @@ import hbs from 'handlebars'
   while (cards.length > 0) {
     const entries = cards.splice(0, 100)
     console.log(entries.map(el => el.deck).filter((el, i, arr) => arr.indexOf(el) === i))
-    await axios.put('http://localhost:24000/api/edit/multi', {
-      entries
-    })
+    try {
+      await axios.put('http://localhost:24000/api/edit/multi', {
+        entries
+      })
+    } catch (e) {
+      console.error(e)
+    }
   }
 })()

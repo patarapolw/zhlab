@@ -9,3 +9,24 @@ template: |
   ===
   
   {\{{speak-js.markdown}}}
+speakJs: |
+  ```js parsed
+  window.speak = window.speak || ((s, lang = 'zh-CN') => {
+    const u = new SpeechSynthesisUtterance(s)
+    u.lang = lang
+    speechSynthesis.speak(u)
+  })
+
+  if (!window.speak.isInit) {
+    window.speak.isInit = true
+    
+    window.addEventListener('keydown', (ev) => {
+      if (ev.key === 's') {
+        const s = window.getSelection().toString()
+        if (s) {
+          window.speak(s)
+        }
+      }
+    })
+  }
+  ```

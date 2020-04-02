@@ -36,8 +36,13 @@ import hbs from 'handlebars'
         english = r0.english
       } else {
         traditional = ambi[lv][v].traditional || ''
+        traditional = Array.isArray(traditional) ? traditional.join(' | ') : ''
+
         pinyin = ambi[lv][v].pinyin
+        pinyin = Array.isArray(pinyin) ? pinyin.join(', ') : pinyin
+
         english = ambi[lv][v].english
+        english = Array.isArray(english) ? english.map((el) => `- ${el}`).join('\n') : english
       }
 
       const ss = db.prepare(/*sql*/`
@@ -50,10 +55,10 @@ import hbs from 'handlebars'
 
       cards.push(
         {
-          key: `hsk-${simplified}-data`,
+          key: `hsk-${simplified}`,
           tag: ['HSK'],
           data: {
-            traditional: traditional.replace(/[- \n]/g, '').split('').join(' | '),
+            traditional,
             pinyin,
             english,
             sentence: ss.map((s) => `- ${s.chinese}\n` + `    - ${s.english}`).join('\n')
@@ -66,14 +71,14 @@ import hbs from 'handlebars'
             template: '1. Simplified-English'
           }),
           tag: ['HSK'],
-          ref: ['speak-js', `hsk-${simplified}-data`],
+          ref: ['speak-js', `hsk-${simplified}`],
           markdown: hbs.compile(template)({
             front: `# ${simplified}`,
             back: [
-              `{{hsk-${simplified}-data.data.traditional}}`,
-              `{{hsk-${simplified}-data.data.pinyin}}`,
-              `{{hsk-${simplified}-data.data.english}}`,
-              `{{hsk-${simplified}-data.data.sentence}}`
+              traditional ? `{{hsk-${simplified}.data.traditional}}` : undefined,
+              `{{hsk-${simplified}.data.pinyin}}`,
+              `{{hsk-${simplified}.data.english}}`,
+              `{{hsk-${simplified}.data.sentence}}`
             ].filter((el) => el).join('\n\n---\n\n')
           })
         },
@@ -84,14 +89,14 @@ import hbs from 'handlebars'
             template: '2. English-Chinese'
           }),
           tag: ['HSK'],
-          ref: ['speak-js', `hsk-${simplified}-data`],
+          ref: ['speak-js', `hsk-${simplified}`],
           markdown: hbs.compile(template)({
-            front: `{{hsk-${simplified}-data.data.english}}`,
+            front: `{{hsk-${simplified}.data.english}}`,
             back: [
               `# ${simplified}`,
-              `{{hsk-${simplified}-data.data.traditional}}`,
-              `{{hsk-${simplified}-data.data.pinyin}}`,
-              `{{hsk-${simplified}-data.data.sentence}}`
+              traditional ? `{{hsk-${simplified}.data.traditional}}` : undefined,
+              `{{hsk-${simplified}.data.pinyin}}`,
+              `{{hsk-${simplified}.data.sentence}}`
             ].filter((el) => el).join('\n\n---\n\n')
           })
         },
@@ -103,14 +108,14 @@ import hbs from 'handlebars'
               template: '3. Traditional-Chinese'
             }),
             tag: ['HSK'],
-            ref: ['speak-js', `hsk-${simplified}-data`],
+            ref: ['speak-js', `hsk-${simplified}`],
             markdown: hbs.compile(template)({
-              front: `# {{hsk-${simplified}-data.data.traditional}}`,
+              front: `# {{hsk-${simplified}.data.traditional}}`,
               back: [
                 `# ${simplified}`,
-                `{{hsk-${simplified}-data.data.pinyin}}`,
-                `{{hsk-${simplified}-data.data.english}}`,
-                `{{hsk-${simplified}-data.data.sentence}}`
+                `{{hsk-${simplified}.data.pinyin}}`,
+                `{{hsk-${simplified}.data.english}}`,
+                `{{hsk-${simplified}.data.sentence}}`
               ].filter((el) => el).join('\n\n---\n\n')
             })
           }

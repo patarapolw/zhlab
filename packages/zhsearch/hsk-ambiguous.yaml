@@ -1,703 +1,665 @@
 '1':
   东西:
-    english: |-
+    english:
       - east and west
-      - thing/stuff/person/CL:個|个[ge4],件[jian4]
-    pinyin: |-
+      - 'thing/stuff/person/CL:個|个[ge4],件[jian4]'
+    pinyin:
       - dong1 xi1
       - dong1 xi5
-    simplified: 东西
     traditional: 東西
   吃:
-    english: to eat/to consume/to eat at (a cafeteria etc)/to eradicate/to destroy/to absorb/to suffer/to stammer (Taiwan pr. for this sense is [ji2])
+    english: to eat/to consume/to eat at (a cafeteria etc)/to eradicate/to destroy/to
+        absorb/to suffer/to stammer (Taiwan pr. for this sense is [ji2])
     pinyin: chi1
-    simplified: 吃
     traditional: 喫
   多少:
-    english: |-
+    english:
       - number/amount/somewhat
-      - how much?/how many?/(phone number, student ID etc) what number?
-    pinyin: |-
+      - 'how much?/how many?/(phone number, student ID etc) what number?'
+    pinyin:
       - duo1 shao3
       - duo1 shao5
-    simplified: 多少
   大:
-    english: big/huge/large/major/great/wide/deep/older (than)/oldest/eldest/greatly/very much/(dialect) father/father's elder or younger brother
-    pinyin: |-
+    english: big/huge/large/major/great/wide/deep/older
+        (than)/oldest/eldest/greatly/very much/(dialect) father/father's elder
+        or younger brother
+    pinyin:
       - da4
       - dai4
-    simplified: 大
   的:
-    english: |-
-      - of/~'s (possessive particle)/(used after an attribute)/(used to form a
-      nominal expression)/(used at the end of a declarative sentence for
-      emphasis)
+    english:
+      - >-
+        of/~'s (possessive particle)/(used after an attribute)/(used to form a
+        nominal expression)/(used at the end of a declarative sentence for
+        emphasis)
       - really and truly
       - aim/clear
-    pinyin: |-
+    pinyin:
       - de5
       - di1
       - di2
       - di4
-    simplified: 的
   读:
-    english: |-
+    english:
       - comma/phrase marked by pause
-      - to read/to study/reading of word (i.e. pronunciation), similar to
-      拼音[pin1 yin1]
-    pinyin: |-
+      - >-
+        to read/to study/reading of word (i.e. pronunciation), similar to
+        拼音[pin1 yin1]
+    pinyin:
       - dou4
       - du2
-    simplified: 读
     traditional: 讀
   都:
-    english: |-
+    english:
       - all/both/entirely/(used for emphasis) even/already/(not) at all
       - capital city/metropolis
-    pinyin: |-
+    pinyin:
       - dou1
       - du1
-    simplified: 都
 '10':
   也:
-    english: |-
-      - also/too/(in Classical Chinese) final particle implying affirmation
-    pinyin: |-
-      - ye3
-    simplified: 也
+    english: also/too/(in Classical Chinese) final particle implying affirmation
+    pinyin: ye3
   最:
     english: most/the most/-est (superlative suffix)
     pinyin: zui4
-    simplified: 最
-    traditional: |-
+    traditional:
       - 㝡
       - 冣
   着:
-    english: |-
+    english:
       - (chess) move/trick/all right!/(dialect) to add
-      - to touch/to come in contact with/to feel/to be affected by/to catch
-      fire/to burn/(coll.) to fall asleep/(after a verb) hitting the
-      mark/succeeding in
+      - >-
+        to touch/to come in contact with/to feel/to be affected by/to catch
+        fire/to burn/(coll.) to fall asleep/(after a verb) hitting the
+        mark/succeeding in
       - aspect particle indicating action in progress
       - to wear (clothes)/to contact/to use/to apply
-    pinyin: |-
+    pinyin:
       - zhao1
       - zhao2
       - zhe5
       - zhuo2
-    simplified: 着
     traditional: 著
   药:
-    english: |-
-      - leaf of the iris
-      - medicine/drug/substance used for a specific purpose (e.g. poisoning,
-      explosion, fermenting)/CL:種|种[zhong3],服[fu4],味[wei4]/to poison
+    english:
+      - 'leaf of the iris'
+      - >-
+        medicine/drug/substance used for a specific purpose (e.g. poisoning,
+        explosion, fermenting)/CL:種|种[zhong3],服[fu4],味[wei4]/to poison
     pinyin: yao4
-    simplified: 药
-    traditional: |-
+    traditional:
       - 葯
       - 藥
   要:
-    english: |-
+    english:
       - to demand/to request/to coerce
-      - important/vital/to want/to ask for/will/going to (as future
-      auxiliary)/may/must/(used in a comparison) must be/probably/if
-    pinyin: |-
+      - >-
+        important/vital/to want/to ask for/will/going to (as future
+        auxiliary)/may/must/(used in a comparison) must be/probably/if
+    pinyin:
       - yao1
       - yao4
-    simplified: 要
   远:
-    english: |-
+    english:
       - far/distant/remote/(intensifier in a comparison) by far/much (lower etc)
       - to distance oneself from (classical)
-    pinyin: |-
+    pinyin:
       - yuan3
       - yuan4
-    simplified: 远
     traditional: 遠
   阴:
-    english: overcast (weather)/cloudy/shady/Yin (the negative principle of Yin and Yang)/negative (electric.)/feminine/moon/implicit/hidden/genitalia
-    pinyin: yin1
-    simplified: 阴
-    traditional: |-
+    english: overcast (weather)/cloudy/shady/Yin (the negative principle of Yin and
+        Yang)/negative (electric.)/feminine/moon/implicit/hidden/genitalia
+    pinyin:
+      - Yin1
+      - yin1
+    traditional:
       - 陰
       - 隂
   雪:
-    english: snow/snowfall/CL:場|场[chang2]/to have the appearance of snow/to wipe away, off or out/to clean
+    english: snow/snowfall/CL:場|场[chang2]/to have the appearance of snow/to wipe
+        away, off or out/to clean
     pinyin: xue3
-    simplified: 雪
   鱼:
-    english: ish/CL:條|条[tiao2],尾[wei3]
+    english: 'fish/CL:條|条[tiao2],尾[wei3]'
     pinyin: yu2
-    simplified: 鱼
     traditional: 魚
 '11':
   包:
-    english: to cover/to wrap/to hold/to include/to take charge of/to contract (to or for)/package/wrapper/container/bag/to hold or embrace/bundle/packet/CL:個|个[ge4],隻|只[zhi1]
+    english: to cover/to wrap/to hold/to include/to take charge of/to contract (to or
+        for)/package/wrapper/container/bag/to hold or
+        embrace/bundle/packet/CL:個|个[ge4],隻|只[zhi1]
     pinyin: bao1
-    simplified: 包
   啊:
-    english: |-
+    english:
       - interjection of surprise/Ah!/Oh!
       - interjection expressing doubt or requiring answer/Eh?/what?
       - interjection of surprise or doubt/Eh?/My!/what's up?
-      - interjection or grunt of agreement/uhm/Ah, OK/expression of
-      recognition/Oh, it's you!
-      - modal particle ending sentence, showing affirmation, approval, or
-      consent
-    pinyin: |-
+      - >-
+        interjection or grunt of agreement/uhm/Ah, OK/expression of
+        recognition/Oh, it's you!
+      - >-
+        modal particle ending sentence, showing affirmation, approval, or
+        consent
+    pinyin:
       - a1
       - a2
       - a3
       - a4
       - a5
-    simplified: 啊
   把:
-    english: |-
-      - to hold/to contain/to grasp/to take hold of/handle/particle marking the
-      following noun as a direct object/classifier for objects with
-      handle/classifier for small objects: handful
+    english:
+      - >-
+        to hold/to contain/to grasp/to take hold of/handle/particle marking the
+        following noun as a direct object/classifier for objects with
+        handle/classifier for small objects: handful
       - handle
-    pinyin: |-
+    pinyin:
       - ba3
       - ba4
-    simplified: 把
   班:
-    english: team/class/squad/work shift/ranking/CL:個|个[ge4]/classifier for groups
+    english: 'team/class/squad/work shift/ranking/CL:個|个[ge4]/classifier for groups'
     pinyin: ban1
-    simplified: 班
   草:
-    english: grass/straw/manuscript/draft (of a
-      document)/careless/rough/CL:棵[ke1],撮[zuo3],株[zhu1],根[gen1]
-    pinyin: |-
+    english:
+      - >-
+        grass/straw/manuscript/draft (of a
+        document)/careless/rough/CL:棵[ke1],撮[zuo3],株[zhu1],根[gen1]
+      - 'variant of 肏[cao4]'
+      - 'variant of 草[cao3]'
+    pinyin:
       - cao3
       - cao4
-    simplified: 草
-    traditional: |-
-      - 艸
-      - 肏[cao4]
+    traditional: 艸
 '12':
   东:
     english: east/host (i.e. sitting on east side of guest)/landlord
     pinyin: dong1
-    simplified: 东
     traditional: 東
   冬:
-    english: |-
+    english:
       - winter
       - (onom.) beating a drum/rat-a-tat
-    pinyin: |-
-      - dong1
-    simplified: 冬
+    pinyin: dong1
     traditional: 鼕
   地:
-    english: |-
-      - -ly/structural particle: used before a verb or adjective, linking it to
-      preceding modifying adverbial adjunct
-      - earth/ground/field/place/land/CL:片[pian4]
-    pinyin: |-
+    english:
+      - >-
+        -ly/structural particle: used before a verb or adjective, linking it to
+        preceding modifying adverbial adjunct
+      - 'earth/ground/field/place/land/CL:片[pian4]'
+    pinyin:
       - de5
       - di4
-    simplified: 地
   地方:
-    english: |-
+    english:
       - region/regional (away from the central administration)/local
-      - area/place/space/room/territory/CL:處|处[chu4],個|个[ge4],塊|块[kuai4]
-    pinyin: |-
+      - 'area/place/space/room/territory/CL:處|处[chu4],個|个[ge4],塊|块[kuai4]'
+    pinyin:
       - di4 fang1
       - di4 fang5
-    simplified: 地方
   差:
-    english: |-
+    english:
       - difference/discrepancy/to differ/error/to err/to make a mistake
-      - to differ from/to fall short of/lacking/wrong/inferior/Taiwan pr. [cha1]
+      - 'to differ from/to fall short of/lacking/wrong/inferior/Taiwan pr. [cha1]'
       - to send/to commission/messenger/mission
-    pinyin: |-
+    pinyin:
       - cha1
       - cha4
       - chai1
-    simplified: 差
   春:
     english: spring (season)/gay/joyful/youthful/love/lust/life
     pinyin: chun1
-    simplified: 春
     traditional: 旾
   段:
-    english: paragraph/section/segment/stage (of a process)/classifier for stories, periods of time, lengths of thread etc
+    english: paragraph/section/segment/stage (of a process)/classifier for stories,
+        periods of time, lengths of thread etc
     pinyin: duan4
-    simplified: 段
   船:
-    english: boat/vessel/ship/CL:條|条[tiao2],艘[sou1],隻|只[zhi1]
+    english: 'boat/vessel/ship/CL:條|条[tiao2],艘[sou1],隻|只[zhi1]'
     pinyin: chuan2
-    simplified: 船
     traditional: 舩
 '13':
   关:
     english: mountain pass/to close/to shut/to turn off/to concern/to involve
     pinyin: guan1
-    simplified: 关
     traditional: 關
   关系:
-    english: relation/relationship/to concern/to affect/to have to do with/CL:個|个[ge4]
+    english: relation/relationship/to concern/to affect/to have to do
+        with/guanxi/CL:個|个[ge4]
     pinyin: guan1 xi5
-    simplified: 关系
-    traditional: |-
+    traditional:
       - 關係
       - 關系
   分:
-    english: |-
-      - to divide/to separate/to distribute/to allocate/to distinguish (good and
-      bad)/part or subdivision/fraction/one tenth (of certain units)/unit of
-      length equivalent to 0.33 cm/minute (unit of time)/minute (angular
-      measurement unit)/a point (in sports or games)/0.01 yuan (unit of money)
+    english:
+      - >-
+        to divide/to separate/to distribute/to allocate/to distinguish (good and
+        bad)/part or subdivision/fraction/one tenth (of certain units)/unit of
+        length equivalent to 0.33 cm/minute (unit of time)/minute (angular
+        measurement unit)/a point (in sports or games)/0.01 yuan (unit of money)
       - part/share/ingredient/component
-    pinyin: |-
+    pinyin:
       - fen1
       - fen4
-    simplified: 分
   刚才:
-    english: |-
-      - just now/a moment ago
-      - (just) a moment ago
+    english: just now/a moment ago
     pinyin: gang1 cai2
-    simplified: 刚才
-    traditional: |-
+    traditional:
       - 剛才
       - 剛纔
   发:
-    english: |-
-      - to send out/to show (one's feeling)/to issue/to develop/to make a bundle
-      of money/classifier for gunshots (rounds)
-      - hair/Taiwan pr. [fa3]
-    pinyin: |-
+    english:
+      - >-
+        to send out/to show (one's feeling)/to issue/to develop/to make a bundle
+        of money/classifier for gunshots (rounds)
+      - 'hair/Taiwan pr. [fa3]'
+    pinyin:
       - fa1
       - fa4
-    simplified: 发
-    traditional: |-
+    traditional:
       - 發
       - 髮
   复习:
-    english: to review/revision/CL:次[ci4]
+    english: 'to review/revision/CL:次[ci4]'
     pinyin: fu4 xi2
-    simplified: 复习
-    traditional: |-
+    traditional:
       - 復習
       - 複習
   故事:
-    english: |-
-      - old practice/CL:個|个[ge4]
+    english:
+      - 'old practice/CL:個|个[ge4]'
       - narrative/story/tale
-    pinyin: |-
+    pinyin:
       - gu4 shi4
       - gu4 shi5
-    simplified: 故事
   更:
-    english: |-
-      - to change or replace/to experience/one of the five two-hour periods into
-      which the night was formerly divided/watch (e.g. of a sentry or guard)
+    english:
+      - >-
+        to change or replace/to experience/one of the five two-hour periods into
+        which the night was formerly divided/watch (e.g. of a sentry or guard)
       - more/even more/further/still/still more
-    pinyin: |-
+    pinyin:
       - geng1
       - geng4
-    simplified: 更
 '14':
   教:
-    english: |-
+    english:
       - to teach
       - religion/teaching/to make/to cause/to tell
-    pinyin: |-
+    pinyin:
       - jiao1
       - jiao4
-    simplified: 教
   花:
-    english: |-
-      - flower/blossom/CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]/fancy
-      pattern/florid/to spend (money, time)
-    pinyin: |-
-      - hua1
-      - wei3
-    simplified: 花
-    traditional: |-
+    english: flower/blossom/CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]/fancy
+        pattern/florid/to spend (money, time)
+    pinyin: hua1
+    traditional:
       - 芲
       - 蘤
   角:
-    english: |-
-      - angle/corner/horn/horn-shaped/unit of money equal to 0.1 yuan, or 10
-      cents (a dime)/CL:個|个[ge4]
-      - role (theater)/to compete/ancient three legged wine vessel/third note of
-      pentatonic scale
-    pinyin: |-
+    english:
+      - >-
+        angle/corner/horn/horn-shaped/unit of money equal to 0.1 yuan, or 10
+        cents (a dime)/CL:個|个[ge4]
+      - >-
+        role (theater)/to compete/ancient three legged wine vessel/third note of
+        pentatonic scale
+    pinyin:
       - jiao3
       - jue2
-    simplified: 角
   过去:
-    english: |-
+    english:
       - (in the) past/former/previous/to go over/to pass by
       - (verb suffix)
-    pinyin: |-
+    pinyin:
       - guo4 qu4
       - guo4 qu5
-    simplified: 过去
     traditional: 過去
 '15':
   借:
     english: to lend/to borrow/by means of/to take (an opportunity)
     pinyin: jie4
-    simplified: 借
     traditional: 藉
   脚:
-    english: |-
-      - foot/leg (of an animal or an object)/base (of an
-      object)/CL:雙|双[shuang1],隻|只[zhi1]/classifier for kicks
-      - role
-    pinyin: |-
+    english:
+      - >-
+        foot/leg (of an animal or an object)/base (of an
+        object)/CL:雙|双[shuang1],隻|只[zhi1]/classifier for kicks
+      - 'variant of 角[jue2]/role'
+    pinyin:
       - jiao3
       - jue2
-    simplified: 脚
     traditional: 腳
   蓝:
     english: blue/indigo plant
     pinyin: lan2
-    simplified: 蓝
     traditional: 藍
 '16':
   了解:
     english: to understand/to realize/to find out
     pinyin: liao3 jie3
-    simplified: 了解
     traditional: 瞭解
   南:
     english: south
     pinyin: nan2
-    simplified: 南
   拿:
-    english: 'to hold/to seize/to catch/to apprehend/to take/(used in the same way as 把[ba3]: to mark the following noun as a direct object)'
+    english: 'to hold/to seize/to catch/to apprehend/to take/(used in the same way as
+        把[ba3]: to mark the following noun as a direct object)'
     pinyin: na2
-    simplified: 拿
-    traditional: |-
+    traditional:
       - 㧱
       - 拏
   楼:
-    english: house with more than 1 story/storied building/floor/CL:層|层[ceng2],座[zuo4],棟|栋[dong4]
+    english: house with more than 1 story/storied
+        building/floor/CL:層|层[ceng2],座[zuo4],棟|栋[dong4]
     pinyin: lou2
-    simplified: 楼
     traditional: 樓
   米:
-    english: rice/CL:粒[li4]/meter (classifier)
+    english: 'rice/CL:粒[li4]/meter (classifier)'
     pinyin: mi3
-    simplified: 米
   胖:
-    english: |-
+    english:
       - healthy/at ease
       - fat/plump
-    pinyin: |-
+    pinyin:
       - pan2
       - pang4
-    simplified: 胖
   难:
-    english: |-
+    english:
       - difficult (to...)/problem/difficulty/difficult/not good
       - disaster/distress/to scold
-    pinyin: |-
+    pinyin:
       - nan2
       - nan4
-    simplified: 难
     traditional: 難
   马:
-    english: |-
-      - surname Ma/abbr. for Malaysia 馬來西亞|马来西亚[Ma3 lai2 xi1 ya4]
-      - horse/CL:匹[pi3]/horse or cavalry piece in Chinese chess/knight in
-      Western chess
-    pinyin: ma3
-    simplified: 马
+    english:
+      - 'surname Ma/abbr. for Malaysia 馬來西亞|马来西亚[Ma3 lai2 xi1 ya4]'
+      - >-
+        horse/CL:匹[pi3]/horse or cavalry piece in Chinese chess/knight in
+        Western chess
+    pinyin:
+      - Ma3
+      - ma3
     traditional: 馬
   鸟:
-    english: |-
-      - penis
-      - bird/CL:隻|只[zhi1],群[qun2]/(dialect) to pay attention to/(intensifier)
-      damned/goddam
-    pinyin: |-
+    english:
+      - 'variant of 屌[diao3]/penis'
+      - >-
+        bird/CL:隻|只[zhi1],群[qun2]/(dialect) to pay attention to/(intensifier)
+        damned/goddam
+    pinyin:
       - diao3
       - niao3
-    simplified: 鸟
     traditional: 鳥
 '17':
   伞:
-    english: |-
-      - umbrella/parasol/CL:把[ba3]
-      - damask silk
+    english:
+      - 'umbrella/parasol/CL:把[ba3]'
+      - 'damask silk'
     pinyin: san3
-    simplified: 伞
-    traditional: |-
+    traditional:
       - 傘
       - 繖
   双:
     english: two/double/pair/both/even (number)
     pinyin: shuang1
-    simplified: 双
     traditional: 雙
   秋:
     english: autumn/fall/harvest time
     pinyin: qiu1
-    simplified: 秋
-    traditional: |-
+    traditional:
       - 秌
       - 鞦
   起来:
-    english: |-
-      - to stand up/to get up/also pr. [qi3 lai2]
-      - (after a verb) indicating the beginning and continuation of an action or
-      a state/indicating an upward movement (e.g. after 站[zhan4])/bringing
-      things together (e.g. after 收拾[shou1 shi5])/(after a perception verb, e.g.
-      看[kan4]) expressing preliminary judgment/also pr. [qi3 lai5]
-    pinyin: |-
+    english:
+      - 'to stand up/to get up/also pr. [qi3 lai2]'
+      - >-
+        (after a verb) indicating the beginning and continuation of an action or
+        a state/indicating an upward movement (e.g. after 站[zhan4])/bringing
+        things together (e.g. after 收拾[shou1 shi5])/(after a perception verb,
+        e.g. 看[kan4]) expressing preliminary judgment/also pr. [qi3 lai5]
+    pinyin:
       - qi3 lai5
       - qi5 lai5
-    simplified: 起来
     traditional: 起來
   骑:
-    english: |-
+    english:
       - (Taiwan) saddle horse/mounted soldier
       - to ride (an animal or bike)/to sit astride/classifier for saddle-horses
-    pinyin: |-
+    pinyin:
       - ji4
       - qi2
-    simplified: 骑
     traditional: 騎
 '18':
   万:
     english: ten thousand/a great number
-    pinyin: |-
+    pinyin:
       - Mo4
       - wan4
-    simplified: 万
     traditional: 萬
   为:
-    english: |-
-      - as (in the capacity of)/to take sth as/to act as/to serve as/to behave
-      as/to become/to be/to do/by (in the passive voice)
+    english:
+      - >-
+        as (in the capacity of)/to take sth as/to act as/to serve as/to behave
+        as/to become/to be/to do/by (in the passive voice)
       - because of/for/to
-      - as (i.e. in the capacity of)/to take sth as/to act
-      as/to serve as/to behave as/to become/to be/to do
-    pinyin: |-
+      - >-
+        variant of 為|为[wei2]/as (i.e. in the capacity of)/to take sth as/to act
+        as/to serve as/to behave as/to become/to be/to do
+      - 'variant of 為|为[wei4], because of/for/to'
+    pinyin:
       - wei2
       - wei4
-    simplified: 为
-    traditional: |-
+    traditional:
       - 為
       - 爲
   夏:
-    english: |-
-      - the Xia or Hsia dynasty c. 2000 BC/Xia of the Sixteen Kingdoms
-      (407-432)/surname Xia
-      - summer
+    english: summer
     pinyin: xia4
-    simplified: 夏
   碗:
-    english: bowl/cup/CL:隻|只[zhi1],個|个[ge4]
+    english:
+      - 'bowl/cup/CL:隻|只[zhi1],個|个[ge4]'
     pinyin: wan3
-    simplified: 碗
-    traditional: |-
+    traditional:
       - 㼝
       - 椀
       - 盌
   腿:
-    english: |-
-      - leg/CL:條|条[tiao2]
-      - hip bone
+    english:
+      - 'leg/CL:條|条[tiao2]'
+      - 'hip bone/old variant of 腿[tui3]'
     pinyin: tui3
-    simplified: 腿
     traditional: 骽
   西:
-    english: |-
-      - the West/abbr. for Spain/Spanish
+    english:
+      - 'the West/abbr. for Spain 西班牙[Xi1 ban1 ya2]/Spanish'
       - west
-    pinyin: xi1
-    simplified: 西
+    pinyin:
+      - Xi1
+      - xi1
 '19':
   向:
-    english: |-
-      - towards/to face/to turn towards/direction/to support/to side with/shortly before/formerly/always/all along
-      - to tend toward/to guide
-      - direction/orientation/to face/to turn toward/to/towards/shortly before/formerly
+    english:
+      - >-
+        towards/to face/to turn towards/direction/to support/to side
+        with/shortly before/formerly/always/all along
+      - 'to tend toward/to guide'
+      - >-
+        direction/orientation/to face/to turn
+        toward/to/towards/shortly before/formerly
     pinyin: xiang4
-    simplified: 向
-    traditional: |-
+    traditional:
       - 嚮
       - 曏
 '2':
   个:
     english: individual/this/that/size/classifier for people or objects in general
     pinyin: ge4
-    simplified: 个
-    traditional: |-
+    traditional:
       - 個
       - 箇
   了:
-    english: |-
+    english:
       - (modal particle intensifying preceding clause)/(completed action marker)
-      - to finish/to achieve/to understand clearly
+      - 'to finish/to achieve/to understand clearly'
       - (of eyes) bright/clear-sighted/to understand clearly
-    pinyin: |-
+    pinyin:
       - le5
       - liao3
       - liao4
-    simplified: 了
     traditional: 瞭
   会:
-    english: |-
-      - can/to be possible/to be able to/will/to be likely to/to be sure to/to
-      assemble/to meet/to gather/to see/union/group/association/CL:個|个[ge4]/a
-      moment (Taiwan pr. for this sense is [hui3])
+    english:
+      - >-
+        can/to be possible/to be able to/will/to be likely to/to be sure to/to
+        assemble/to meet/to gather/to see/union/group/association/CL:個|个[ge4]/a
+        moment (Taiwan pr. for this sense is [hui3])
       - to balance an account/accountancy/accounting
-    pinyin: |-
+    pinyin:
       - hui4
       - kuai4
-    simplified: 会
     traditional: 會
   冷:
     english: cold
-    pinyin: |-
-      - Leng3
-      - leng3
-    simplified: 冷
+    pinyin: leng3
   几:
-    english: |-
+    english:
       - small table
       - almost
       - how much/how many/several/a few
-    pinyin: |-
+    pinyin:
       - ji1
       - ji3
-    simplified: 几
     traditional: 幾
   叫:
     english: to shout/to call/to order/to ask/to be called/by (indicates agent in the
-      passive mood)
+        passive mood)
     pinyin: jiao4
-    simplified: 叫
     traditional: 呌
   号:
-    english: |-
-      - roar/cry/CL:個|个[ge4]
-      - ordinal number/day of a month/mark/sign/business establishment/size/ship
-      suffix/horn (wind instrument)/bugle call/assumed name/to take a
-      pulse/classifier used to indicate number of people
-    pinyin: |-
+    english:
+      - 'roar/cry/CL:個|个[ge4]'
+      - >-
+        ordinal number/day of a month/mark/sign/business establishment/size/ship
+        suffix/horn (wind instrument)/bugle call/assumed name/to take a
+        pulse/classifier used to indicate number of people
+    pinyin:
       - hao2
       - hao4
-    simplified: 号
     traditional: 號
   吗:
     english: (question particle for "yes-no" questions)
-    pinyin: |-
+    pinyin:
       - ma3
       - ma5
-    simplified: 吗
     traditional: 嗎
   和:
-    english: |-
-      - Japanese (food, clothes etc)
-      - and/together with/with/sum/union/peace/harmony/Taiwan pr. [han4] when it
-      means "and" or "with"
-      - to compose a poem in reply (to sb's poem) using the same rhyme
-      sequence/to join in the singing/to chime in with others
+    english:
+      - 'surname He/Japanese (food, clothes etc)'
+      - >-
+        and/together with/with/sum/union/peace/harmony/Taiwan pr. [han4] when it
+        means "and" or "with"
+      - >-
+        to compose a poem in reply (to sb's poem) using the same rhyme
+        sequence/to join in the singing/to chime in with others
       - to complete a set in mahjong or playing cards
-      - to combine a powdery substance (flour, plaster etc) with water
-      - to mix (ingredients) together/to blend/classifier for rinses of
-      clothes/classifier for boilings of medicinal herbs
-      - harmonious
-    pinyin: |-
+      - >-
+        to combine a powdery substance (flour, plaster etc) with water/Taiwan
+        pr. [huo4]
+      - >-
+        to mix (ingredients) together/to blend/classifier for rinses of
+        clothes/classifier for boilings of medicinal herbs
+      - 'harmonious'
+    pinyin:
       - He2
       - he2
       - he4
       - hu2
       - huo2
       - huo4
-    simplified: 和
-    traditional: |-
+    traditional:
       - 咊
       - 龢
   喝:
-    english: |-
+    english:
       - to drink/My goodness!
       - to shout loudly
-    pinyin: |-
+    pinyin:
       - he1
       - he4
-    simplified: 喝
   回:
-    english: |-
-      - to circle/to go back/to turn around/to answer/to return/to revolve/Hui
-      ethnic group (Chinese Muslims)/time/classifier for acts of a play/section
-      or chapter (of a classic book)
+    english:
+      - >-
+        to circle/to go back/to turn around/to answer/to return/to revolve/Hui
+        ethnic group (Chinese Muslims)/time/classifier for acts of a
+        play/section or chapter (of a classic book)
       - to curve/to return/to revolve
     pinyin: hui2
-    simplified: 回
-    traditional: |-
+    traditional:
       - 迴
       - 逥
   好:
-    english: |-
-      - good/well/proper/good to/easy to/very/so/(suffix indicating completion
-      or readiness)/(of two people) close/on intimate terms/(after a personal
-      pronoun) hello
+    english:
+      - >-
+        good/well/proper/good to/easy to/very/so/(suffix indicating completion
+        or readiness)/(of two people) close/on intimate terms/(after a personal
+        pronoun) hello
       - to be fond of/to have a tendency to/to be prone to
-    pinyin: |-
+    pinyin:
       - hao3
       - hao4
-    simplified: 好
   家:
-    english: |-
-      - home/family/(polite) my (sister, uncle etc)/classifier for families or
-      businesses/refers to the philosophical schools of pre-Han China/noun
-      suffix for a specialist in some activity, such as a musician or
-      revolutionary, corresponding to English -ist, -er, -ary or -ian/CL:個|个[ge4]
-      - see 傢伙|家伙[jia1 huo5]
+    english: home/family/(polite) my (sister, uncle etc)/classifier for families or
+        businesses/refers to the philosophical schools of pre-Han China/noun
+        suffix for a specialist in some activity, such as a musician or
+        revolutionary, corresponding to English -ist, -er, -ary or
+        -ian/CL:個|个[ge4]
     pinyin: jia1
-    simplified: 家
     traditional: 傢
   看:
-    english: |-
+    english:
       - to look after/to take care of/to watch/to guard
-      - to see/to look at/to read/to watch/to visit/to call on/to consider/to
-      regard as/to look after/to treat (an illness)/to depend on/to feel
-      (that)/(after verb) to give it a try/Watch out! (for a danger)
-    pinyin: |-
+      - >-
+        to see/to look at/to read/to watch/to visit/to call on/to consider/to
+        regard as/to look after/to treat (an illness)/to depend on/to feel
+        (that)/(after verb) to give it a try/Watch out! (for a danger)
+    pinyin:
       - kan1
       - kan4
-    simplified: 看
   里:
-    english: |-
-      - li, ancient measure of length, approx. 500 m/neighborhood/ancient
-      administrative unit of 25 families/(Tw) borough, administrative unit
-      between the township 鎮|镇[zhen4] and neighborhood 鄰|邻[lin2] levels
-      - lining/interior/inside/internal
+    english:
+      - >-
+        li, ancient measure of length, approx. 500 m/neighborhood/ancient
+        administrative unit of 25 families/(Tw) borough, administrative unit
+        between the township 鎮|镇[zhen4] and neighborhood 鄰|邻[lin2] levels
+      - 'lining/interior/inside/internal/also written 裏|里[li3]'
     pinyin: li3
-    simplified: 里
-    traditional: |-
+    traditional:
       - 裏
       - 裡
 '20':
   元:
-    english: |-
-      - the Yuan or Mongol dynasty (1279-1368)
-      - currency unit (esp. Chinese
-      yuan)/first/original/primary/fundamental/constituent/part/era (of a
-      reign)/meta- (prefix)/(math.) argument/variable/(Tw) (geology) eon
+    english:
+      - surname Yuan/the Yuan or Mongol dynasty (1279-1368)
+      - >-
+        currency unit (esp. Chinese
+        yuan)/first/original/primary/fundamental/constituent/part/era (of a
+        reign)/meta- (prefix)/(math.) argument/variable/(Tw) (geology) eon
     pinyin: yuan2
-    simplified: 元
   只:
-    english: |-
+    english:
       - only/merely/just/but
-      - grain that has begun to ripen
-      - classifier for birds and certain animals, one of a pair, some utensils,
-      vessels etc
-    pinyin: |-
+      - 'grain that has begun to ripen'
+      - >-
+        classifier for birds and certain animals, one of a pair, some utensils,
+        vessels etc
+    pinyin:
       - zhi3
       - zhi1
-    simplified: 只
-    traditional: |-
+    traditional:
       - 祇
       - 秖
       - 衹
@@ -705,2720 +667,2504 @@
   只有:
     english: to only have
     pinyin: zhi3 you3
-    simplified: 只有
   张:
-    english: to open up/to spread/sheet of paper/classifier for flat objects, sheet/classifier for votes
+    english: to open up/to spread/sheet of paper/classifier for flat objects,
+        sheet/classifier for votes
     pinyin: zhang1
-    simplified: 张
     traditional: 張
   才:
-    english: |-
-      - ability/talent/sb of a certain type/a capable individual/only/only
-      then/just now
-      - a moment ago/just now/(indicating sth happening later than
-      expected)/(preceded by a clause of condition or reason) not
-      until/(followed by a numerical clause) only
+    english:
+      - >-
+        ability/talent/sb of a certain type/a capable individual/only/only
+        then/just now
+      - >-
+        a moment ago/just now/(indicating sth happening later than
+        expected)/(preceded by a clause of condition or reason) not
+        until/(followed by a numerical clause) only
     pinyin: cai2
-    simplified: 才
     traditional: 纔
   种:
-    english: |-
-      - seed/species/kind/type/classifier for types, kinds, sorts
+    english:
+      - 'seed/species/kind/type/classifier for types, kinds, sorts'
       - to plant/to grow/to cultivate
-    pinyin: |-
+    pinyin:
       - zhong3
       - zhong4
-    simplified: 种
     traditional: 種
   越:
-    english: |-
-      - generic word for peoples or states of south China or south Asia at
-      different historical periods/abbr. for Vietnam
+    english:
+      - >-
+        generic word for peoples or states of south China or south Asia at
+        different historical periods/abbr. for Vietnam 越南
       - to exceed/to climb over/to surpass/the more... the more
     pinyin: yue4
-    simplified: 越
 '21':
   场:
-    english: |-
-      - threshing floor/classifier for events and happenings: spell, episode,
-      bout
-      - large place used for a specific purpose/stage/scene (of a
-      play)/classifier for sporting or recreational activities/classifier for
-      number of exams
-    pinyin: |-
+    english:
+      - >-
+        threshing floor/classifier for events and happenings: spell, episode,
+        bout
+      - >-
+        large place used for a specific purpose/stage/scene (of a
+        play)/classifier for sporting or recreational activities/classifier for
+        number of exams
+    pinyin:
       - chang2
       - chang3
-    simplified: 场
-    traditional: |-
+    traditional:
       - 場
       - 塲
   尝:
-    english: |-
-      - to taste/to try/to experience/already/ever/once
-      - to taste/to experience
+    english: to taste/to try/to experience/already/ever/once
     pinyin: chang2
-    simplified: 尝
-    traditional: |-
+    traditional:
       - 嘗
       - 嚐
       - 甞
   成功:
-    english: |-
-      - Chenggong or Chengkung town in Taitung County 臺東縣|台东县[Tai2 dong1 Xian4], southeast Taiwan
-      - success/to succeed/CL:次[ci4],個|个[ge4]
+    english:
+      - >-
+        Chenggong or Chengkung town in Taitung County 臺東縣|台东县[Tai2 dong1 Xian4],
+        southeast Taiwan
+      - 'success/to succeed/CL:次[ci4],個|个[ge4]'
     pinyin: cheng2 gong1
-    simplified: 成功
   遍:
     english: 'everywhere/all over/classifier for actions: one time'
     pinyin: bian4
-    simplified: 遍
     traditional: 徧
 '22':
   倒:
-    english: |-
-      - to fall/to collapse/to lie horizontally/to overthrow/to fail/to go
-      bankrupt/to change (trains or buses)/to move around/to resell at a profit
-      - to place upside down/to invert/to pour/to throw out/to move
-      backwards/however/actually/as a matter of fact/contrary to expectation
-    pinyin: |-
+    english:
+      - >-
+        to fall/to collapse/to lie horizontally/to overthrow/to fail/to go
+        bankrupt/to change (trains or buses)/to move around/to resell at a
+        profit
+      - >-
+        to place upside down/to invert/to pour/to throw out/to move
+        backwards/however/actually/as a matter of fact/contrary to expectation
+    pinyin:
       - dao3
       - dao4
-    simplified: 倒
   刀:
     english: knife/blade/single-edged sword/cutlass/CL:把[ba3]/(slang) dollar
-      (loanword)/classifier for sets of one hundred sheets (of paper)/classifier
-      for knife cuts or stabs
+        (loanword)/classifier for sets of one hundred sheets (of
+        paper)/classifier for knife cuts or stabs
     pinyin: dao1
-    simplified: 刀
   大夫:
-    english: |-
+    english:
       - senior official (in imperial China)
       - doctor/physician
-    pinyin: |-
+    pinyin:
       - da4 fu1
       - dai4 fu5
-    simplified: 大夫
   底:
-    english: background/bottom/base/end (of the month, year etc)/remnants/(math.)
-      radix/base
-    pinyin: |-
+    english:
+      - (equivalent to 的 as possessive particle)
+      - >-
+        background/bottom/base/end (of the month, year etc)/remnants/(math.)
+        radix/base
+    pinyin:
       - de5
       - di3
-    simplified: 底
   当:
-    english: |-
+    english:
       - (onom.) dong/ding dong (bell)
-      - to be/to act as/manage/withstand/when/during/ought/should/match
-      equally/equal/same/obstruct/just at (a time or place)/on the
-      spot/right/just at
-      - at or in the very same.../suitable/adequate/fitting/proper/to replace/to
-      regard as/to think/to pawn/(coll.) to fail (a student)
-    pinyin: |-
+      - >-
+        to be/to act as/manage/withstand/when/during/ought/should/match
+        equally/equal/same/obstruct/just at (a time or place)/on the
+        spot/right/just at
+      - >-
+        at or in the very same.../suitable/adequate/fitting/proper/to replace/to
+        regard as/to think/to pawn/(coll.) to fail (a student)
+    pinyin:
       - dang1
       - dang4
-    simplified: 当
-    traditional: |-
+    traditional:
       - 噹
       - 當
   当时:
-    english: |-
+    english:
       - then/at that time/while
       - at once/right away
-    pinyin: |-
+    pinyin:
       - dang1 shi2
       - dang4 shi2
-    simplified: 当时
     traditional: 當時
   戴:
     english: to put on or wear (glasses, hat, gloves etc)/to respect/to bear/to
-      support
+        support
     pinyin: dai4
-    simplified: 戴
   放暑假:
-    english: to go on summer vacation
+    english: to take summer vacation
     pinyin: fang4 shu3 jia4
-    simplified: 放暑假
 '23':
   富:
     english: rich/abundant/wealthy
     pinyin: fu4
-    simplified: 富
   干:
-    english: |-
+    english:
       - to concern/to interfere/shield/stem
       - dry/clean/in vain/dried food/foster/adoptive/to ignore
-      - tree trunk/main part of sth/to manage/to work/to do/capable/cadre/to
-      kill (slang)/to fuck (vulgar)
-    pinyin: |-
+      - >-
+        tree trunk/main part of sth/to manage/to work/to do/capable/cadre/to
+        kill (slang)/to fuck (vulgar)
+    pinyin:
       - gan1
       - gan4
-    simplified: 干
-    traditional: |-
+    traditional:
       - 乹
       - 乾
       - 亁
       - 幹
   汗:
     english: perspiration/sweat/CL:滴[di1],頭|头[tou2],身[shen1]/to be speechless (out of
-      helplessness, embarrassment etc) (Internet slang used as an interjection)
-    pinyin: |-
+        helplessness, embarrassment etc) (Internet slang used as an
+        interjection)
+    pinyin:
       - han2
       - han4
-    simplified: 汗
 '24':
   举:
     english: to lift/to hold up/to cite/to enumerate/to act/to raise/to choose/to
-      elect/act/move/deed
+        elect/act/move/deed
     pinyin: ju3
-    simplified: 举
-    traditional: |-
+    traditional:
       - 擧
       - 舉
   假:
-    english: |-
+    english:
       - fake/false/artificial/to borrow/if/suppose
       - vacation
-    pinyin: |-
+      - 'variant of 假[jia3]/to borrow'
+    pinyin:
       - gei1
       - jia3
       - jia4
-    simplified: 假
     traditional: 叚
   火:
     english: fire/urgent/ammunition/fiery or flaming/internal heat (Chinese
-      medicine)/hot (popular)/classifier for military units (old)
+        medicine)/hot (popular)/classifier for military units (old)
     pinyin: huo3
-    simplified: 火
   结果:
-    english: |-
-      - to bear fruit/CL:個|个[ge4]
+    english:
+      - 'to bear fruit/CL:個|个[ge4]'
       - outcome/result/conclusion/in the end/as a result/to kill/to dispatch
-    pinyin: |-
+    pinyin:
       - jie1 guo3
       - jie2 guo3
-    simplified: 结果
     traditional: 結果
   节:
     english: festival/holiday/node/joint/section/segment/part/to economize/to save/to
-      abridge/moral integrity/classifier for segments, e.g. lessons, train
-      wagons, biblical verses/CL:個|个[ge4]
-    pinyin: |-
+        abridge/moral integrity/classifier for segments, e.g. lessons, train
+        wagons, biblical verses/CL:個|个[ge4]
+    pinyin:
       - jie1
       - jie2
-    simplified: 节
     traditional: 節
 '25':
   困:
-    english: |-
+    english:
       - to trap/to surround/hard-pressed/stranded/destitute
       - sleepy/tired
     pinyin: kun4
-    simplified: 困
     traditional: 睏
   懒:
     english: lazy
     pinyin: lan3
-    simplified: 懒
-    traditional: |-
+    traditional:
       - 嬾
       - 懶
   毛:
     english: hair/feather/down/wool/mildew/mold/coarse or
-      semifinished/young/raw/careless/unthinking/nervous/scared/(of currency) to
-      devalue or depreciate/classifier for Chinese fractional monetary unit ( =
-      角[jiao3] , = one-tenth of a yuan or 10 fen 分[fen1])
+        semifinished/young/raw/careless/unthinking/nervous/scared/(of currency)
+        to devalue or depreciate/classifier for Chinese fractional monetary unit
+        ( = 角[jiao3] , = one-tenth of a yuan or 10 fen 分[fen1])
     pinyin: mao2
-    simplified: 毛
   满:
-    english: |-
+    english:
       - Manchu ethnic group
-      - to fill/full/filled/packed/fully/completely/quite/to reach the limit/to
-      satisfy/satisfied/contented
+      - >-
+        to fill/full/filled/packed/fully/completely/quite/to reach the limit/to
+        satisfy/satisfied/contented
     pinyin: man3
-    simplified: 满
     traditional: 滿
   留:
     english: to leave (a message etc)/to retain/to stay/to remain/to keep/to preserve
     pinyin: liu2
-    simplified: 留
-    traditional: |-
+    traditional:
       - 㽞
       - 畱
   空:
-    english: |-
+    english:
       - empty/air/sky/in vain
       - to empty/vacant/unoccupied/space/leisure/free time
-    pinyin: |-
+    pinyin:
       - kong1
       - kong4
-    simplified: 空
   联系:
     english: connection/contact/relation/to get in touch with/to integrate/to link/to
-      touch
+        touch
     pinyin: lian2 xi4
-    simplified: 联系
-    traditional: |-
+    traditional:
       - 聯係
       - 聯繫
   辣:
     english: hot (spicy)/pungent
     pinyin: la4
-    simplified: 辣
     traditional: 辢
   连:
     english: to link/to join/to connect/continuously/in succession/including/(used
-      with 也[ye3], 都[dou1] etc) even/company (military)
+        with 也[ye3], 都[dou1] etc) even/company (military)
     pinyin: lian2
-    simplified: 连
     traditional: 連
 '26':
   却:
     english: but/yet/however/while/to go back/to decline/to retreat/nevertheless/even
-      though
+        though
     pinyin: que4
-    simplified: 却
-    traditional: |-
+    traditional:
       - 㕁
       - 卻
   弄:
-    english: |-
+    english:
       - lane/alley
-      - to do/to manage/to handle/to play with/to fool with/to mess with/to
-      fix/to toy with
-    pinyin: |-
+      - >-
+        to do/to manage/to handle/to play with/to fool with/to mess with/to
+        fix/to toy with
+    pinyin:
       - long4
       - nong4
-    simplified: 弄
-    traditional: |-
+    traditional:
       - 挵
       - 衖
 '27':
   台:
-    english: |-
-      - Taiwan (abbr.)
-      - (classical) you (in letters)
-      - platform/stage/terrace/stand/support/station/broadcasting
-      station/classifier for vehicles or machines
+    english:
+      - Taiwan (abbr.)/surname Tai
+      - '(classical) you (in letters)'
+      - desk/table/counter
+      - >-
+        platform/stage/terrace/stand/support/station/broadcasting
+        station/classifier for vehicles or machines
       - typhoon
-    pinyin: tai2
-    simplified: 台
-    traditional: |-
+    pinyin:
+      - Tai2
+      - tai2
+    traditional:
       - 檯
       - 臺
       - 颱
   孙子:
-    english: |-
-      - Sun Tzu, also known as Sun Wu 孫武|孙武[Sun1 Wu3] (c. 500 BC, dates of birth
-      and death uncertain), general, strategist and philosopher of the Spring
-      and Autumn Period (700-475 BC), believed to be the author of the “Art of
-      War” 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], one of the Seven Military Classics of
-      ancient China 武經七書|武经七书[Wu3 jing1 Qi1 shu1]
+    english:
+      - >-
+        Sun Tzu, also known as Sun Wu 孫武|孙武[Sun1 Wu3] (c. 500 BC, dates of birth
+        and death uncertain), general, strategist and philosopher of the Spring
+        and Autumn Period (700-475 BC), believed to be the author of the “Art of
+        War” 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], one of the Seven Military Classics
+        of ancient China 武經七書|武经七书[Wu3 jing1 Qi1 shu1]
       - grandson/son's son
-    pinyin: sun1 zi5
-    simplified: 孙子
+    pinyin:
+      - Sun1 zi3
+      - sun1 zi5
     traditional: 孫子
   帅:
     english: handsome/graceful/smart/commander in chief/(coll.) cool!/sweet!
     pinyin: shuai4
-    simplified: 帅
     traditional: 帥
   深:
     english: deep/depth/deeply/(of a color) dark/deep/rich
     pinyin: shen1
-    simplified: 深
     traditional: 㴱
   生意:
-    english: |-
+    english:
       - life force/vitality
-      - business/CL:筆|笔[bi3]
-    pinyin: |-
+      - 'business/CL:筆|笔[bi3]'
+    pinyin:
       - sheng1 yi4
       - sheng1 yi5
-    simplified: 生意
   省:
-    english: |-
-      - to save/to economize/to do without/to omit/to leave
-      out/province/CL:個|个[ge4]
-      - to inspect/to examine/to be aware/to pay a visit (to one's parents or
-      elders)
-    pinyin: |-
+    english:
+      - >-
+        to save/to economize/to do without/to omit/to leave
+        out/province/CL:個|个[ge4]
+      - >-
+        to inspect/to examine/to be aware/to pay a visit (to one's parents or
+        elders)
+    pinyin:
       - sheng3
       - xing3
-    simplified: 省
 '28':
   咸:
-    english: |-
+    english:
       - all/everyone/each/widespread/harmonious
       - salted/salty/stingy/miserly
     pinyin: xian2
-    simplified: 咸
     traditional: 鹹
   弹钢琴:
     english: to play piano
     pinyin: dan4 gang1 qin2
-    simplified: 弹钢琴
   汤:
-    english: |-
+    english:
       - rushing current
-      - soup/hot or boiling water/decoction of medicinal herbs/water in which
-      sth has been boiled
-    pinyin: |-
+      - >-
+        soup/hot or boiling water/decoction of medicinal herbs/water in which
+        sth has been boiled
+    pinyin:
       - shang1
       - tang1
-    simplified: 汤
     traditional: 湯
   糖:
-    english: |-
-      - sugar/sweets/candy/CL:顆|颗[ke1],塊|块[kuai4]
+    english:
+      - 'sugar/sweets/candy/CL:顆|颗[ke1],塊|块[kuai4]'
     pinyin: tang2
-    simplified: 糖
     traditional: 餹
   谈:
     english: to speak/to talk/to converse/to chat/to discuss
     pinyin: tan2
-    simplified: 谈
     traditional: 談
   趟:
-    english: |-
+    english:
       - to wade/to trample/to turn the soil
-      - classifier for times, round trips or rows/a time/a trip
-    pinyin: |-
+      - 'classifier for times, round trips or rows/a time/a trip'
+    pinyin:
       - tang1
       - tang4
-    simplified: 趟
     traditional: 䠀
 '29':
   与:
-    english: |-
+    english:
       - and/to give/together with
       - to take part in
-    pinyin: |-
+    pinyin:
       - yu2
       - yu3
       - yu4
-    simplified: 与
     traditional: 與
   以:
-    english: |-
-      - abbr. for Israel
-      - to use/by means of/according to/in order to/because of/at (a certain
-      date or place)
-    pinyin: |-
-      - yi3
-    simplified: 以
-    traditional: |-
+    english:
+      - 'abbr. for Israel 以色列[Yi3 se4 lie4]'
+      - >-
+        to use/by means of/according to/in order to/because of/at (a certain
+        date or place)
+    pinyin: yi3
+    traditional:
       - 㕥
       - 㠯
   友好:
-    english: |-
-      - Youhao district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang
+    english:
+      - 'Youhao district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang'
       - friendly/amicable/close friend
-    pinyin: |-
-      - you3 hao3
-    simplified: 友好
+    pinyin: you3 hao3
   行:
-    english: |-
-      - row/line/commercial firm/line of business/profession/to rank (first,
-      second etc) among one's siblings (by age)/(in data tables) row/(Tw) column
-      - to walk/to go/to travel/a visit/temporary/makeshift/current/in
-      circulation/to do/to perform/capable/competent/effective/all
-      right/OK!/will do/behavior/conduct/Taiwan pr. [xing4] for the
-      behavior-conduct sense
-    pinyin: |-
+    english:
+      - >-
+        row/line/commercial firm/line of business/profession/to rank (first,
+        second etc) among one's siblings (by age)/(in data tables) row/(Tw)
+        column
+      - >-
+        to walk/to go/to travel/a visit/temporary/makeshift/current/in
+        circulation/to do/to perform/capable/competent/effective/all
+        right/OK!/will do/behavior/conduct/Taiwan pr. [xing4] for the
+        behavior-conduct sense
+    pinyin:
       - hang2
       - xing2
-    simplified: 行
   页:
-    english: |-
+    english:
       - head
       - page/leaf
-    pinyin: |-
+    pinyin:
       - xie2
       - ye4
-    simplified: 页
     traditional: 頁
 '3':
   三:
     english: three/3
     pinyin: san1
-    simplified: 三
   上:
     english: on top/upon/above/upper/previous/first (of multiple parts)/to climb/to
-      get onto/to go up/to attend (class or university)
-    pinyin: |-
+        get onto/to go up/to attend (class or university)
+    pinyin:
       - shang3
       - shang4
-    simplified: 上
   呢:
-    english: |-
-      - particle indicating that a previously asked question is to be applied to
-      the preceding word ("What about ...?", "And ...?")/particle for inquiring
-      about location ("Where is ...?")/particle signaling a pause, to emphasize
-      the preceding words and allow the listener time to take them on board
-      ("ok?", "are you with me?")/(at the end of a declarative sentence)
-      particle indicating continuation of a state or action/particle indicating
-      strong affirmation
+    english:
+      - >-
+        particle indicating that a previously asked question is to be applied to
+        the preceding word ("What about ...?", "And ...?")/particle for
+        inquiring about location ("Where is ...?")/particle signaling a pause,
+        to emphasize the preceding words and allow the listener time to take
+        them on board ("ok?", "are you with me?")/(at the end of a declarative
+        sentence) particle indicating continuation of a state or action/particle
+        indicating strong affirmation
       - woolen material
-    pinyin: |-
+    pinyin:
       - ne5
       - ni2
-    simplified: 呢
   哪:
-    english: |-
+    english:
       - how/which
       - (particle equivalent to 啊 after noun ending in -n)
-      - which? (interrogative, followed by classifier or numeral-classifier)
-    pinyin: |-
+      - 'which? (interrogative, followed by classifier or numeral-classifier)'
+    pinyin:
       - na3
       - na5
       - nei3
-    simplified: 哪
   年:
-    english: |-
-      - year/CL:個|个[ge4]
-      - grain/harvest (old)
+    english:
+      - 'year/CL:個|个[ge4]'
+      - 'grain/harvest (old)/variant of 年[nian2]'
     pinyin: nian2
-    simplified: 年
     traditional: 秊
   能:
     english: can/to be able to/might possibly/ability/(physics) energy
     pinyin: neng2
-    simplified: 能
   那:
-    english: |-
-      - that/those/then (in that case)/commonly before a classifier,
-      esp. in Beijing
-      - (archaic) many/beautiful/how/old variant of 挪[nuo2]
-    pinyin: |-
+    english:
+      - >-
+        that/those/then (in that case)/commonly pr. [nei4] before a classifier,
+        esp. in Beijing
+      - '(archaic) many/beautiful/how/old variant of 挪[nuo2]'
+    pinyin:
       - Na1
       - na3
       - na4
       - nuo2
-    simplified: 那
   钱:
-    english: coin/money/CL:筆|笔[bi3]/unit of weight, one tenth of a tael 兩|两[liang3]
+    english: 'coin/money/CL:筆|笔[bi3]/unit of weight, one tenth of a tael 兩|两[liang3]'
     pinyin: qian2
-    simplified: 钱
     traditional: 錢
 '30':
   云:
-    english: |-
+    english:
       - (classical) to say
-      - surname Yun/abbr. for Yunnan Province
-      - cloud/CL:朵[duo3]
+      - 'surname Yun/abbr. for Yunnan Province 雲南省|云南省[Yun2 nan2 Sheng3]'
+      - 'cloud/CL:朵[duo3]'
     pinyin: yun2
-    simplified: 云
     traditional: 雲
   照:
-    english: |-
-      - according to/in accordance with/to shine/to illuminate/to reflect/to
-      look at (one's reflection)/to take (a photo)/photo/as requested/as before
-      - to shine/to illuminate
+    english:
+      - >-
+        according to/in accordance with/to shine/to illuminate/to reflect/to
+        look at (one's reflection)/to take (a photo)/photo/as requested/as
+        before
+      - 'variant of 照[zhao4]/to shine/to illuminate'
     pinyin: zhao4
-    simplified: 照
     traditional: 炤
   脏:
-    english: |-
+    english:
       - viscera/(anatomy) organ
       - dirty/filthy
-    pinyin: |-
+    pinyin:
       - zang4
       - zang1
-    simplified: 脏
-    traditional: |-
+    traditional:
       - 臟
       - 髒
   赚:
-    english: |-
+    english:
       - to earn/to make a profit
       - to cheat/to swindle
-    pinyin: |-
+    pinyin:
       - zhuan4
       - zuan4
-    simplified: 赚
     traditional: 賺
   转:
-    english: |-
+    english:
+      - 'see 轉文|转文[zhuai3 wen2]'
       - to turn/to change direction/to transfer/to forward (mail)
-      - to revolve/to turn/to circle about/to walk about/classifier for
-      revolutions (per minute etc): revs, rpm/classifier for repeated actions
-    pinyin: |-
+      - >-
+        to revolve/to turn/to circle about/to walk about/classifier for
+        revolutions (per minute etc): revs, rpm/classifier for repeated actions
+    pinyin:
       - zhuai3
       - zhuan3
       - zhuan4
-    simplified: 转
     traditional: 轉
   重:
-    english: |-
-      - to repeat/repetition/again/re-/classifier: layer
+    english:
+      - 'to repeat/repetition/again/re-/classifier: layer'
       - heavy/serious/to attach importance to
-    pinyin: |-
+    pinyin:
       - chong2
       - zhong4
-    simplified: 重
   重点:
-    english: |-
+    english:
       - to recount (e.g. results of election)/to re-evaluate
-      - important point/main point/focus/key (project etc)/to focus on/to put
-      the emphasis on
-    pinyin: |-
+      - >-
+        important point/main point/focus/key (project etc)/to focus on/to put
+        the emphasis on
+    pinyin:
       - chong2 dian3
       - zhong4 dian3
-    simplified: 重点
     traditional: 重點
 '31':
   便:
-    english: |-
-      - plain/informal/suitable/convenient/opportune/to urinate or
-      defecate/equivalent to 就[jiu4]: then/in that case/even if/soon afterwards
-    pinyin: |-
+    english: 'plain/informal/suitable/convenient/opportune/to urinate or
+        defecate/equivalent to 就[jiu4]: then/in that case/even if/soon
+        afterwards'
+    pinyin:
       - bian4
       - pian2
-    simplified: 便
   冲:
-    english: |-
-      - (of water) to dash against/to mix with water/to infuse/to rinse/to
-      flush/to develop (a film)/to rise in the air/to clash/to collide with
+    english:
+      - >-
+        (of water) to dash against/to mix with water/to infuse/to rinse/to
+        flush/to develop (a film)/to rise in the air/to clash/to collide with
       - thoroughfare/to go straight ahead/to rush/to clash
       - powerful/vigorous/pungent/towards/in view of
-    pinyin: |-
+    pinyin:
       - chong1
       - chong4
-    simplified: 冲
-    traditional: |-
+    traditional:
       - 沖
       - 衝
   唉:
-    english: |-
-      - interjection or grunt of agreement or recognition (e.g. yes, it's
-      me!)/to sigh
+    english:
+      - >-
+        interjection or grunt of agreement or recognition (e.g. yes, it's
+        me!)/to sigh
       - alas/oh dear
-    pinyin: |-
+    pinyin:
       - ai1
       - ai4
-    simplified: 唉
   岸:
-    english: bank/shore/beach/coast/CL:個|个[ge4]
+    english:
+      - 'bank/shore/beach/coast/CL:個|个[ge4]'
     pinyin: an4
-    simplified: 岸
     traditional: 㟁
   布:
     english: cloth/to declare/to announce/to spread/to make known
     pinyin: bu4
-    simplified: 布
     traditional: 佈
   插:
     english: to insert/stick in/pierce/to take part in/to interfere/to interpose
     pinyin: cha1
-    simplified: 插
     traditional: 揷
   暗:
-    english: |-
+    english:
       - dark/gloomy/hidden/secret/muddled/obscure/in the dark
-      - to close (a door)/to eclipse/muddled/stupid/ignorant
+      - 'to close (a door)/to eclipse/muddled/stupid/ignorant/variant of 暗[an4]'
     pinyin: an4
-    simplified: 暗
-    traditional: |-
+    traditional:
       - 晻
       - 闇
   朝:
-    english: |-
-      - abbr. for Korea
-      - imperial or royal court/government/dynasty/reign of a sovereign or
-      emperor/court or assembly held by a sovereign or emperor/to make a
-      pilgrimage to/facing/towards
+    english:
+      - 'abbr. for 朝鮮|朝鲜[Chao2 xian3] Korea'
+      - >-
+        imperial or royal court/government/dynasty/reign of a sovereign or
+        emperor/court or assembly held by a sovereign or emperor/to make a
+        pilgrimage to/facing/towards
       - morning
-    pinyin: |-
+    pinyin:
       - chao2
       - zhao1
-    simplified: 朝
   称:
-    english: |-
+    english:
       - to fit/balanced/suitable
       - to weigh/to state/to name/name/appellation/to praise
-      - steelyard
-    pinyin: |-
+      - 'variant of 秤[cheng4]/steelyard'
+    pinyin:
       - chen4
       - cheng1
       - cheng4
-    simplified: 称
-    traditional: |-
-      - 稱
-      - 秤
+    traditional: 稱
   背:
-    english: |-
+    english:
       - to be burdened/to carry on the back or shoulder
-      - the back of a body or object/to turn one's back/to hide something
-      from/to learn by heart/to recite from memory/unlucky (slang)/hard of
-      hearing
-    pinyin: |-
+      - >-
+        the back of a body or object/to turn one's back/to hide something
+        from/to learn by heart/to recite from memory/unlucky (slang)/hard of
+        hearing
+    pinyin:
       - bei1
       - bei4
-    simplified: 背
     traditional: 揹
   薄:
-    english: |-
+    english:
       - thin/cold in manner/indifferent/weak/light/infertile
-      - meager/slight/weak/ungenerous or unkind/frivolous/to despise/to
-      belittle/to look down on/to approach or near
-    pinyin: |-
+      - >-
+        meager/slight/weak/ungenerous or unkind/frivolous/to despise/to
+        belittle/to look down on/to approach or near
+    pinyin:
       - bao2
       - bo2
       - bo4
-    simplified: 薄
   趁:
     english: to avail oneself of/to take advantage of
     pinyin: chen4
-    simplified: 趁
     traditional: 趂
   踩:
     english: to step on/to tread/to stamp/to press a pedal/to pedal (a bike)
     pinyin: cai3
-    simplified: 踩
     traditional: 跴
 '32':
   丑:
-    english: |-
-      - clown/2nd earthly branch: 1-3 a.m., 12th solar month (6th January to 3rd
-      February), year of the Ox/ancient Chinese compass point: 30°
+    english:
+      - >-
+        clown/2nd earthly branch: 1-3 a.m., 12th solar month (6th January to 3rd
+        February), year of the Ox/ancient Chinese compass point: 30°
       - shameful/ugly/disgraceful
     pinyin: chou3
-    simplified: 丑
     traditional: 醜
   地道:
-    english: |-
+    english:
       - tunnel/causeway
-      - authentic/genuine/typical/from a place known for the
-      product/thorough/conscientious
-    pinyin: |-
+      - >-
+        authentic/genuine/typical/from a place known for the
+        product/thorough/conscientious
+    pinyin:
       - di4 dao4
       - di4 dao5
-    simplified: 地道
   大方:
-    english: |-
+    english:
       - expert/scholar/mother earth/a type of green tea
-      - generous/magnanimous/stylish/in good taste/easy-mannered/natural and
-      relaxed
-    pinyin: |-
+      - >-
+        generous/magnanimous/stylish/in good taste/easy-mannered/natural and
+        relaxed
+    pinyin:
       - da4 fang1
       - da4 fang5
-    simplified: 大方
   挡:
-    english: |-
-      - to resist/to obstruct/to hinder/to keep off/to block (a blow)/to get in
-      the way of/cover/gear (e.g. in a car's transmission)
+    english:
+      - >-
+        to resist/to obstruct/to hinder/to keep off/to block (a blow)/to get in
+        the way of/cover/gear (e.g. in a car's transmission)
       - to arrange/to put in order
-    pinyin: |-
+    pinyin:
       - dang3
       - dang4
-    simplified: 挡
-    traditional: |-
+    traditional:
       - 擋
       - 攩
   朵:
-    english: |-
-      - flower/earlobe/fig. item on both sides/classifier for flowers, clouds
-      etc
+    english: flower/earlobe/fig. item on both sides/classifier for flowers, clouds
+        etc
     pinyin: duo3
-    simplified: 朵
     traditional: 朶
   翻:
     english: to turn over/to flip over/to overturn/to rummage through/to translate/to
-      decode/to double/to climb over or into/to cross
+        decode/to double/to climb over or into/to cross
     pinyin: fan1
-    simplified: 翻
     traditional: 飜
   臭:
-    english: |-
-      - stench/smelly/to smell
-      (bad)/repulsive/loathsome/terrible/bad/severely/ruthlessly/dud
-      (ammunition)
+    english:
+      - >-
+        stench/smelly/to smell
+        (bad)/repulsive/loathsome/terrible/bad/severely/ruthlessly/dud
+        (ammunition)
       - sense of smell/smell bad
-    pinyin: |-
+    pinyin:
       - chou4
       - xiu4
-    simplified: 臭
   词汇:
     english: vocabulary/list of words (e.g. for language teaching purposes)/word
     pinyin: ci2 hui4
-    simplified: 词汇
-    traditional: |-
+    traditional:
       - 詞匯
       - 詞彙
   重复:
-    english: to repeat/to duplicate/CL:個|个[ge4]
+    english: 'to repeat/to duplicate/CL:個|个[ge4]'
     pinyin: chong2 fu4
-    simplified: 重复
-    traditional: |-
+    traditional:
       - 重複
       - 重覆
 '33':
   仿佛:
     english: to seem/as if/alike/similar
     pinyin: fang3 fu2
-    simplified: 仿佛
     traditional: 彷彿
   反复:
     english: repeatedly/over and over/to upend/unstable/to come and go/(of an
-      illness) to return
+        illness) to return
     pinyin: fan3 fu4
-    simplified: 反复
-    traditional: |-
+    traditional:
       - 反復
       - 反覆
   哈:
-    english: |-
-      - abbr. for Kazakhstan/abbr. for Harbin
-      - (interj.) ha!/(onom. for laughter)/(slang) to be infatuated with/to
-      adore/abbr. for 哈士奇[ha1 shi4 qi2], husky (dog)
+    english:
+      - >-
+        abbr. for 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan/abbr. for
+        哈爾濱|哈尔滨[Ha1 er3 bin1], Harbin
+      - >-
+        (interj.) ha!/(onom. for laughter)/(slang) to be infatuated with/to
+        adore/abbr. for 哈士奇[ha1 shi4 qi2], husky (dog)
       - a Pekinese/a pug/(dialect) to scold
-    pinyin: |-
+    pinyin:
       - ha1
       - ha3
-    simplified: 哈
   官:
     english: government official/governmental/official/public/organ of the
-      body/CL:個|个[ge4]
+        body/CL:個|个[ge4]
     pinyin: guan1
-    simplified: 官
   方:
     english: square/power or involution (math.)/upright/honest/fair and
-      square/direction/side/party (to a contract, dispute
-      etc)/place/method/prescription (medicine)/just when/only or
-      just/classifier for square things/abbr. for square or cubic meter
+        square/direction/side/party (to a contract, dispute
+        etc)/place/method/prescription (medicine)/just when/only or
+        just/classifier for square things/abbr. for square or cubic meter
     pinyin: fang1
-    simplified: 方
   柜台:
     english: sales counter/front desk/bar/(of markets, medicines etc) OTC
-      (over-the-counter)
+        (over-the-counter)
     pinyin: gui4 tai2
-    simplified: 柜台
-    traditional: |-
+    traditional:
       - 櫃台
       - 櫃檯
       - 櫃臺
   盖:
     english: lid/top/cover/canopy/to cover/to conceal/to build
-    pinyin: |-
+    pinyin:
       - Ge3
       - gai4
-    simplified: 盖
     traditional: 蓋
   管子:
-    english: |-
-      - Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齊國|齐国 of
-      Spring and Autumn period/Guanzi, classical book containing writings of
-      Guan Zhong and his school
-      - tube/pipe/drinking straw/CL:根[gen1]
-    pinyin: |-
-      - Guan3 zi3
-      - guan3 zi5
-    simplified: 管子
+    english:
+      - >-
+        Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齊國|齐国 of
+        Spring and Autumn period/Guanzi, classical book containing writings of
+        Guan Zhong and his school
+      - 'tube/pipe/drinking straw/CL:根[gen1]'
+    pinyin: guan3 zi5
   非:
-    english: |-
-      - abbr. for Africa
-      - to not be/not/wrong/incorrect/non-/un-/in-/to reproach or
-      blame/(colloquial) to insist on/simply must
+    english:
+      - 'abbr. for 非洲[Fei1 zhou1], Africa'
+      - >-
+        to not be/not/wrong/incorrect/non-/un-/in-/to reproach or
+        blame/(colloquial) to insist on/simply must
     pinyin: fei1
-    simplified: 非
 '34':
   划:
-    english: |-
+    english:
       - to row/to paddle/profitable/worth (the effort)/it pays (to do sth)
-      - to cut/to slash/to scratch (cut into the surface of sth)/to strike (a
-      match)
-      - to delimit/to transfer/to assign/to plan/to draw (a line)/stroke of a
-      Chinese character
-    pinyin: |-
+      - >-
+        to cut/to slash/to scratch (cut into the surface of sth)/to strike (a
+        match)
+      - >-
+        to delimit/to transfer/to assign/to plan/to draw (a line)/stroke of a
+        Chinese character
+    pinyin:
       - hua2
       - hua4
-    simplified: 划
     traditional: 劃
   和平:
-    english: |-
-      - Heping district of Shenyang city 瀋陽市|沈阳市, Liaoning/Hoping township in
-      Taichung county 臺中縣|台中县[Tai2 zhong1 xian4], Taiwan
+    english:
+      - >-
+        Heping district of Shenyang city 瀋陽市|沈阳市, Liaoning/Hoping township in
+        Taichung county 臺中縣|台中县[Tai2 zhong1 xian4], Taiwan
       - peace/peaceful
     pinyin: he2 ping2
-    simplified: 和平
   尽快:
-    english: as quickly as possible/as soon as possible/with all speed
-    pinyin: |-
+    english:
+      - as quickly as possible/as soon as possible/with all speed
+      - 'see 儘快|尽快[jin3 kuai4]'
+    pinyin:
       - jin3 kuai4
       - jin4 kuai4
-    simplified: 尽快
-    traditional: |-
+    traditional:
       - 儘快
       - 盡快
   尽量:
     english: as much as possible/to the greatest extent
-    pinyin: |-
+    pinyin:
       - jin3 liang4
       - jin4 liang4
-    simplified: 尽量
-    traditional: |-
+    traditional:
       - 儘量
       - 盡量
   滑:
     english: to slip/to slide/smooth/slippery/cunning
     pinyin: hua2
-    simplified: 滑
   系领带:
-    english: to fasten necktie
+    english: to tie on a necktie
     pinyin: xi4 ling3 dai4
-    simplified: 系领带
   结实:
-    english: |-
+    english:
       - to bear fruit
       - rugged/sturdy/strong/durable/buff (physique)
-    pinyin: |-
+    pinyin:
       - jie1 shi2
       - jie1 shi5
-    simplified: 结实
     traditional: 結實
   胡同:
-    english: lane/alley/CL:條|条[tiao2]
+    english: 'lane/alley/CL:條|条[tiao2]'
     pinyin: hu2 tong4
-    simplified: 胡同
     traditional: 衚衕
 '35':
   克:
-    english: |-
-      - to be able to/to subdue/to restrain/to overcome/gram/Tibetan unit of
-      land area, about 6 ares
-      - Ke (c. 2000 BC), seventh of the legendary Flame Emperors, 炎帝[Yan2 di4]
-      descended from Shennong 神農|神农[Shen2 nong2] Farmer God
-      - to subdue/to overthrow/to restrain
+    english:
+      - >-
+        to be able to/to subdue/to restrain/to overcome/gram/Tibetan unit of
+        land area, about 6 ares
+      - >-
+        Ke (c. 2000 BC), seventh of the legendary Flame Emperors, 炎帝[Yan2 di4]
+        descended from Shennong 神農|神农[Shen2 nong2] Farmer God
+      - 'variant of 克[ke4]/to subdue/to overthrow/to restrain'
       - to scold/to beat
-    pinyin: |-
+    pinyin:
       - ke4
       - kei1
-    simplified: 克
-    traditional: |-
+    traditional:
       - 剋
       - 尅
   夸:
     english: to boast/to exaggerate/to praise
     pinyin: kua1
-    simplified: 夸
     traditional: 誇
   宽:
     english: lenient/wide/broad
     pinyin: kuan1
-    simplified: 宽
     traditional: 寬
   救:
     english: to save/to assist/to rescue
     pinyin: jiu4
-    simplified: 救
     traditional: 捄
   精神:
-    english: |-
-      - spirit/mind/consciousness/thought/mental/psychological/essence/gist/CL:個|个[ge4]
+    english:
+      - >-
+        spirit/mind/consciousness/thought/mental/psychological/essence/gist/CL:個|个[ge4]
       - vigor/vitality/drive/spiritual
-    pinyin: |-
+    pinyin:
       - jing1 shen2
       - jing1 shen5
-    simplified: 精神
   老板:
-    english: |-
+    english:
       - Robam (brand)
-      - boss/business proprietor/CL:個|个[ge4]
-    pinyin: lao3 ban3
-    simplified: 老板
+      - 'boss/business proprietor/CL:個|个[ge4]'
+    pinyin:
+      - lao3 ban3
+      - Lao3 ban3
     traditional: 老闆
   雷:
     english: thunder/mine (weapon)/(Internet slang) terrifying/terrific
     pinyin: lei2
-    simplified: 雷
   骂:
-    english: to scold/to abuse/to curse/CL:通[tong4],頓|顿[dun4]
+    english: 'to scold/to abuse/to curse/CL:通[tong4],頓|顿[dun4]'
     pinyin: ma4
-    simplified: 骂
-    traditional: |-
+    traditional:
       - 罵
       - 駡
   龙:
-    english: dragon/CL:條|条[tiao2]/imperial
+    english: 'dragon/CL:條|条[tiao2]/imperial'
     pinyin: long2
-    simplified: 龙
     traditional: 龍
 '36':
   凭:
     english: to lean against/to rely on/on the basis of/no matter (how, what
-      etc)/proof
+        etc)/proof
     pinyin: ping2
-    simplified: 凭
-    traditional: |-
+    traditional:
       - 凴
       - 憑
   切:
-    english: |-
+    english:
       - to cut/to slice/tangent (math)
-      - definitely/absolutely (not)/(scoffing or dismissive interjection) Yeah,
-      right./Tut!/to grind/close to/eager/to correspond to
-    pinyin: |-
+      - >-
+        definitely/absolutely (not)/(scoffing or dismissive interjection) Yeah,
+        right./Tut!/to grind/close to/eager/to correspond to/see also 反切[fan3
+        qie4]
+    pinyin:
       - qie1
       - qie4
-    simplified: 切
   匹:
-    english: |-
+    english:
       - mate/one of a pair
-      - classifier for horses, mules etc/Taiwan pr. [pi1]/ordinary
-      person/classifier for cloth: bolt/horsepower
-      - variant of 匹[pi3]/classifier for cloth: bolt
-    pinyin: |-
+      - >-
+        classifier for horses, mules etc/Taiwan pr. [pi1]/ordinary
+        person/classifier for cloth: bolt/horsepower
+      - 'classifier for cloth: bolt'
+    pinyin:
       - pi1
       - pi3
-    simplified: 匹
     traditional: 疋
   嗯:
-    english: |-
+    english:
       - (a groaning sound)
-      - (nonverbal grunt as interjection)/OK, yeah/what?
-      - interjection indicating approval, appreciation or agreement
-    pinyin: |-
+      - '(nonverbal grunt as interjection)/OK, yeah/what?'
+      - 'interjection indicating approval, appreciation or agreement'
+    pinyin:
       - en1
       - en4
       - en5
-    simplified: 嗯
   圈:
-    english: |-
+    english:
       - to confine/to lock up/to pen in
       - pen (pig)/a fold
-      - circle/ring/loop/classifier for loops, orbits, laps of race
-      etc/CL:個|个[ge4]/to surround/to circle
-    pinyin: |-
+      - >-
+        circle/ring/loop/classifier for loops, orbits, laps of race
+        etc/CL:個|个[ge4]/to surround/to circle
+    pinyin:
       - juan1
       - juan4
       - quan1
-    simplified: 圈
   墙:
-    english: |-
-      - variant of 牆|墙[qiang2], wall
-      - wall/CL:面[mian4],堵[du3]
+    english: 'wall/CL:面[mian4],堵[du3]'
     pinyin: qiang2
-    simplified: 墙
-    traditional: |-
+    traditional:
       - 墻
       - 牆
   嫩:
-    english: |-
+    english:
       - tender/soft/delicate/light (color)/inexperienced/unskilled
-      - tender/delicate
+      - 'old variant of 嫩[nen4]/tender/delicate'
     pinyin: nen4
-    simplified: 嫩
     traditional: 嫰
   平:
-    english: |-
-      - flat/level/equal/to tie (make the same score)/to draw
-      (score)/calm/peaceful/see also 平聲|平声[ping2 sheng1]
+    english: flat/level/equal/to tie (make the same score)/to draw
+        (score)/calm/peaceful/see also 平聲|平声[ping2 sheng1]
     pinyin: ping2
-    simplified: 平
   念:
-    english: |-
-      - to read/to study (a subject)/to attend (a school)/to read aloud/to miss
-      (sb)/idea/remembrance/twenty (banker's anti-fraud numeral corresponding to
-      廿, 20)
-      - to read aloud
+    english:
+      - >-
+        to read/to study (a subject)/to attend (a school)/to read aloud/to miss
+        (sb)/idea/remembrance/twenty (banker's anti-fraud numeral corresponding
+        to 廿, 20)
+      - 'to read aloud'
     pinyin: nian4
-    simplified: 念
     traditional: 唸
   抢:
-    english: to fight over/to rush/to scramble/to grab/to rob/to snatch
-    pinyin: |-
+    english:
+      - 'see 搶風|抢风[qiang1 feng1]'
+      - to fight over/to rush/to scramble/to grab/to rob/to snatch
+    pinyin:
       - qiang1
       - qiang3
-    simplified: 抢
     traditional: 搶
   摸:
-    english: to feel with the hand/to touch/to stroke/to grope/to steal/to abstract
-    pinyin: |-
+    english:
+      - to feel with the hand/to touch/to stroke/to grope/to steal/to abstract
+      - 'variant of 摹[mo2]'
+    pinyin:
       - mo1
       - mo2
-    simplified: 摸
   枪:
-    english: |-
-      - gun/firearm/rifle/spear/thing with shape or function similar to a
-      gun/CL:支[zhi1],把[ba3],桿|杆[gan3],條|条[tiao2],枝[zhi1]/to substitute for
-      another person in a test/to knock/classifier for rifle shots
-      - variant of 槍|枪[qiang1]/rifle/spear
+    english: gun/firearm/rifle/spear/thing with shape or function similar to a
+        gun/CL:支[zhi1],把[ba3],桿|杆[gan3],條|条[tiao2],枝[zhi1]/to substitute for
+        another person in a test/to knock/classifier for rifle shots
     pinyin: qiang1
-    simplified: 枪
-    traditional: |-
+    traditional:
       - 槍
       - 鎗
   浅:
-    english: |-
+    english:
       - sound of moving water
       - shallow/light (color)
-    pinyin: |-
+    pinyin:
       - jian1
       - qian3
-    simplified: 浅
     traditional: 淺
   片:
-    english: |-
+    english:
       - disk/sheet
-      - thin piece/flake/a slice/film/TV play/to slice/to carve
-      thin/partial/incomplete/one-sided/classifier for slices, tablets, tract of
-      land, area of water/classifier for CDs, movies, DVDs etc/used with numeral
-      一[yi1]: classifier for scenario, scene, feeling, atmosphere, sound etc
-    pinyin: |-
+      - >-
+        thin piece/flake/a slice/film/TV play/to slice/to carve
+        thin/partial/incomplete/one-sided/classifier for slices, tablets, tract
+        of land, area of water/classifier for CDs, movies, DVDs etc/used with
+        numeral 一[yi1]: classifier for scenario, scene, feeling, atmosphere,
+        sound etc
+    pinyin:
       - pian1
       - pian4
-    simplified: 片
   碰:
     english: to touch/to meet with/to bump
     pinyin: peng4
-    simplified: 碰
-    traditional: |-
+    traditional:
       - 掽
       - 踫
   签:
-    english: |-
-      - to sign one's name/visa
-      - inscribed bamboo stick (used in divination, gambling, drawing lots
-      etc)/small wood sliver/label/tag
+    english:
+      - 'to sign one''s name/visa/variant of 籤|签[qian1]'
+      - 'Japanese variant of 籤|签[qian1]'
+      - >-
+        inscribed bamboo stick (used in divination, gambling, drawing lots
+        etc)/small wood sliver/label/tag
     pinyin: qian1
-    simplified: 签
-    traditional: |-
+    traditional:
       - 簽
       - 籖
       - 籤
   绕:
-    english: |-
-      - to wind/to coil (thread)/to rotate around/to spiral/to move around/to go
-      round (an obstacle)/to by-pass/to make a detour/to confuse/to perplex
-      - to rotate around/to spiral/to move around/to go
-      round (an obstacle)/to by-pass/to make a detour
+    english:
+      - >-
+        to wind/to coil (thread)/to rotate around/to spiral/to move around/to go
+        round (an obstacle)/to by-pass/to make a detour/to confuse/to perplex
+      - >-
+        to rotate around/to spiral/to move around/to go
+        round (an obstacle)/to by-pass/to make a detour
     pinyin: rao4
-    simplified: 绕
-    traditional: |-
+    traditional:
       - 繞
       - 遶
   群:
-    english: group/crowd/flock, herd, pack etc
+    english: 'group/crowd/flock, herd, pack etc'
     pinyin: qun2
-    simplified: 群
     traditional: 羣
   青:
-    english: |-
-      - abbr. for Qinghai Province
+    english:
+      - 'abbr. for 青海[Qing1 hai3], Qinghai Province'
       - nature's color/green or blue/greenish black/youth/young (of people)
     pinyin: qing1
-    simplified: 青
   飘:
     english: to float
     pinyin: piao1
-    simplified: 飘
-    traditional: |-
+    traditional:
       - 飃
       - 飄
 '37':
   升:
-    english: |-
-      - to ascend/to rise to the rank of/to promote/to hoist/liter/measure for
-      dry grain equal to one-tenth dou 斗[dou3]
-      - to ascend/to rise in rank
+    english: to ascend/to rise to the rank of/to promote/to hoist/liter/measure for
+        dry grain equal to one-tenth dou 斗[dou3]
     pinyin: sheng1
-    simplified: 升
-    traditional: |-
+    traditional:
       - 昇
       - 陞
   收获:
     english: to harvest/to reap/to gain/crop/harvest/profit/gain/bonus/reward
     pinyin: shou1 huo4
-    simplified: 收获
-    traditional: |-
+    traditional:
       - 收獲
       - 收穫
   数:
-    english: |-
+    english:
       - to count/to count as/to regard as/to enumerate (sb's shortcomings)
-      - number/figure/several/CL:個|个[ge4]
+      - 'number/figure/several/CL:個|个[ge4]'
       - frequently/repeatedly
-    pinyin: |-
+    pinyin:
       - shu3
       - shu4
       - shuo4
-    simplified: 数
     traditional: 數
   时代:
-    english: |-
-      - Time, US weekly news magazine
-      - age/era/epoch/period (in one's life)/CL:個|个[ge4]
+    english:
+      - 'Time, US weekly news magazine'
+      - 'age/era/epoch/period (in one''s life)/CL:個|个[ge4]'
     pinyin: shi2 dai4
-    simplified: 时代
     traditional: 時代
   晒:
     english: (of the sun) to shine on/to bask in (the sunshine)/to dry (clothes,
-      grain etc) in the sun/(fig.) to expose and share (one's experiences and
-      thoughts) on the Web (loanword from "share")/(coll.) to give the cold
-      shoulder to
+        grain etc) in the sun/(fig.) to expose and share (one's experiences and
+        thoughts) on the Web (loanword from "share")/(coll.) to give the cold
+        shoulder to
     pinyin: shai4
-    simplified: 晒
     traditional: 曬
   狮子:
-    english: |-
-      - Leo (star sign)/Shihtzu township in Pingtung County 屏東縣|屏东县[Ping2 dong1
-      Xian4], Taiwan
-      - lion/CL:隻|只[zhi1],頭|头[tou2]
-    pinyin: |-
-      - Shi1 zi3
-      - shi1 zi5
-    simplified: 狮子
+    english:
+      - >-
+        Leo (star sign)/Shihtzu township in Pingtung County 屏東縣|屏东县[Ping2 dong1
+        Xian4], Taiwan
+      - 'lion/CL:隻|只[zhi1],頭|头[tou2]'
+    pinyin: shi1 zi5
     traditional: 獅子
   蛇:
-    english: snake/serpent/CL:條|条[tiao2]
+    english: 'snake/serpent/CL:條|条[tiao2]'
     pinyin: she2
-    simplified: 蛇
     traditional: 虵
   诗:
-    english: |-
-      - abbr. for Shijing 詩經|诗经[Shi1 jing1], the Book of Songs
-      - poem/CL:首[shou3]/poetry/verse
+    english:
+      - 'abbr. for Shijing 詩經|诗经[Shi1 jing1], the Book of Songs'
+      - 'poem/CL:首[shou3]/poetry/verse'
     pinyin: shi1
-    simplified: 诗
     traditional: 詩
   软:
     english: soft/flexible
     pinyin: ruan3
-    simplified: 软
-    traditional: |-
+    traditional:
       - 軟
       - 輭
   锁:
-    english: to lock up/to lock/lock/CL:把[ba3]
+    english: 'to lock up/to lock/lock/CL:把[ba3]'
     pinyin: suo3
-    simplified: 锁
-    traditional: |-
+    traditional:
       - 鎖
       - 鎻
 '38':
   吐:
-    english: |-
+    english:
       - to spit/to put/to say
       - to vomit/to throw up
-    pinyin: |-
+    pinyin:
       - tu3
       - tu4
-    simplified: 吐
   吓:
-    english: |-
-      - to scare/to intimidate/to threaten/(interjection showing disapproval)
-      tut-tut/(interjection showing astonishment)
+    english:
+      - >-
+        to scare/to intimidate/to threaten/(interjection showing disapproval)
+        tut-tut/(interjection showing astonishment)
       - to frighten/to scare
-    pinyin: |-
+    pinyin:
       - he4
       - xia4
-    simplified: 吓
     traditional: 嚇
   吻:
-    english: |-
-      - kiss/to kiss/mouth
-      - variant of 吻[wen3]
+    english: kiss/to kiss/mouth
     pinyin: wen3
-    simplified: 吻
     traditional: 脗
   团:
-    english: |-
-      - round/lump/ball/to roll into a ball/to
-      gather/regiment/group/society/classifier for a lump or a soft mass: wad
-      (of paper), ball (of wool), cloud (of smoke)
+    english:
+      - >-
+        round/lump/ball/to roll into a ball/to
+        gather/regiment/group/society/classifier for a lump or a soft mass: wad
+        (of paper), ball (of wool), cloud (of smoke)
       - dumpling
     pinyin: tuan2
-    simplified: 团
-    traditional: |-
+    traditional:
       - 團
       - 糰
   土地:
-    english: |-
-      - land/soil/territory/CL:片[pian4],塊|块[kuai4]
+    english:
+      - 'land/soil/territory/CL:片[pian4],塊|块[kuai4]'
       - local god/genius loci
-    pinyin: |-
+    pinyin:
       - tu3 di4
       - tu3 di5
-    simplified: 土地
-    traditional: ''
   歪:
-    english: |-
+    english:
       - askew/at a crooked angle/devious/noxious/(coll.) to lie on one's side
       - to sprain (one's ankle) (Tw)
-    pinyin: |-
+    pinyin:
       - wai1
       - wai3
-    simplified: 歪
-    traditional: ''
   现代:
-    english: |-
-      - Hyundai, South Korean company
+    english:
+      - 'Hyundai, South Korean company'
       - modern times/modern age/modern era
     pinyin: xian4 dai4
-    simplified: 现代
     traditional: 現代
   系:
-    english: |-
+    english:
       - system/department/faculty
       - to connect/to relate to/to tie up/to bind/to be (literary)
       - to tie/to fasten/to button up
       - to connect/to arrest/to worry
-    pinyin: |-
+    pinyin:
       - xi4
       - ji4
-    simplified: 系
-    traditional: |-
+    traditional:
       - 係
       - 繫
   网络:
-    english: |-
+    english:
       - Internet
-      - network (computing, telecommunications, transport etc)
+      - 'network (computing, telecommunications, transport etc)'
     pinyin: wang3 luo4
-    simplified: 网络
     traditional: 網絡
   闻:
     english: to hear/news/well-known/famous/reputation/fame/to smell/to sniff at
-    pinyin: |-
+    pinyin:
       - Wen2
       - wen2
-    simplified: 闻
     traditional: 聞
   项:
     english: back of neck/item/thing/term (in a mathematical formula)/sum (of
-      money)/classifier for principles, items, clauses, tasks, research projects
-      etc
+        money)/classifier for principles, items, clauses, tasks, research
+        projects etc
     pinyin: xiang4
-    simplified: 项
     traditional: 項
 '39':
   乙:
-    english: |-
-      - second of the ten Heavenly Stems 十天干[shi2 tian1 gan1]/second in
-      order/letter "B" or Roman "II" in list "A, B, C", or "I, II, III"
-      etc/second party (in legal contract, usually 乙方[yi3 fang1], as opposed to
-      甲方[jia3 fang1])/ethyl/bent/winding/radical in Chinese characters (Kangxi
-      radical 5)/ancient Chinese compass point: 105°
-      - turning stroke (in Chinese characters)/see also 折[zhe2]
-    pinyin: |-
+    english:
+      - >-
+        second of the ten Heavenly Stems 十天干[shi2 tian1 gan1]/second in
+        order/letter "B" or Roman "II" in list "A, B, C", or "I, II, III"
+        etc/second party (in legal contract, usually 乙方[yi3 fang1], as opposed
+        to 甲方[jia3 fang1])/ethyl/bent/winding/radical in Chinese characters
+        (Kangxi radical 5)/ancient Chinese compass point: 105°
+      - 'turning stroke (in Chinese characters)/see also 折[zhe2]'
+    pinyin:
       - yi3
       - zhe2
-    simplified: 乙
   咬:
     english: to bite/to nip
     pinyin: yao3
-    simplified: 咬
     traditional: 齩
   夜:
     english: night
     pinyin: ye4
-    simplified: 夜
     traditional: 亱
   延长:
-    english: |-
-      - Yanchang county in Yan'an 延安[Yan2 an1], Shaanxi
+    english:
+      - 'Yanchang county in Yan''an 延安[Yan2 an1], Shaanxi'
       - to prolong/to extend/to delay
     pinyin: yan2 chang2
-    simplified: 延长
     traditional: 延長
   摇:
     english: to shake/to rock/to row/to crank
     pinyin: yao2
-    simplified: 摇
     traditional: 搖
   晕:
-    english: |-
+    english:
       - confused/dizzy/giddy/to faint/to swoon/to lose consciousness/to pass out
       - dizzy/halo/ring around moon or sun
-    pinyin: |-
+    pinyin:
       - yun1
       - yun4
-    simplified: 晕
     traditional: 暈
   痒:
     english: to itch/to tickle
     pinyin: yang3
-    simplified: 痒
     traditional: 癢
   胸:
     english: chest/bosom/heart/mind/thorax
     pinyin: xiong1
-    simplified: 胸
     traditional: 胷
   阳台:
     english: balcony/porch
     pinyin: yang2 tai2
-    simplified: 阳台
-    traditional: |-
+    traditional:
       - 陽台
       - 陽臺
 '4':
   书:
-    english: book/letter/document/CL:本[ben3],冊|册[ce4],部[bu4]/to write
-    pinyin: shu1
-    simplified: 书
+    english: 'book/letter/document/CL:本[ben3],冊|册[ce4],部[bu4]/to write'
+    pinyin:
+      - shu1
     traditional: 書
   先生:
-    english: |-
+    english:
       - Mister (Mr.)
-      - teacher/husband/doctor (dialect)/CL:位[wei4]
+      - 'teacher/husband/doctor (dialect)/CL:位[wei4]'
     pinyin: xian1 sheng5
-    simplified: 先生
   听:
-    english: |-
+    english:
       - smile (archaic)
-      - to listen/to hear/to obey/a can (loanword from English "tin")/classifier
-      for canned beverages
-      - (literary pronunciation, still advocated in Taiwan) to rule/to
-      sentence/to allow
-    pinyin: |-
+      - >-
+        to listen/to hear/to obey/a can (loanword from English "tin")/classifier
+        for canned beverages
+      - >-
+        (literary pronunciation, still advocated in Taiwan) to rule/to
+        sentence/to allow
+    pinyin:
       - yin3
       - ting1
       - ting4
-    simplified: 听
     traditional: 聽
   喂:
-    english: |-
+    english:
       - hello (when answering the phone)
-      - hey/to feed (an animal, baby, invalid etc)
+      - 'hey/to feed (an animal, baby, invalid etc)'
+      - 'variant of 餵|喂[wei4]'
       - to feed
-    pinyin: |-
+    pinyin:
       - wei2
       - wei4
-    simplified: 喂
-    traditional: |-
+    traditional:
       - 餧
       - 餵
   少:
-    english: |-
+    english:
       - few/less/to lack/to be missing/to stop (doing sth)/seldom
       - young
-    pinyin: |-
+    pinyin:
       - shao3
       - shao4
-    simplified: 少
   岁:
-    english: |-
-      - year/years old
+    english:
+      - 'variant of 歲|岁[sui4], year/years old'
       - classifier for years (of age)/year/year (of crop harvests)
     pinyin: sui4
-    simplified: 岁
-    traditional: |-
+    traditional:
       - 嵗
       - 歲
   是:
-    english: |-
+    english:
       - is/are/am/yes/to be
+      - 'variant of 是[shi4]/(used in given names)'
     pinyin: shi4
-    simplified: 是
     traditional: 昰
   水:
     english: water/river/liquid/beverage/additional charges or income/(of clothes)
-      classifier for number of washes
+        classifier for number of washes
     pinyin: shui3
-    simplified: 水
-    traditional: ''
   说:
-    english: |-
+    english:
       - to persuade
-      - to speak/to say/to explain/to scold/to tell off/a theory (typically the
-      last character in a compound, as in 日心說|日心说 heliocentric theory)
-    pinyin: |-
+      - >-
+        to speak/to say/to explain/to scold/to tell off/a theory (typically the
+        last character in a compound, as in 日心說|日心说 heliocentric theory)
+    pinyin:
       - shui4
       - shuo1
-    simplified: 说
-    traditional: |-
+    traditional:
       - 說
       - 説
 '40':
   占:
-    english: |-
+    english:
       - to observe/to divine
       - to take possession of/to occupy/to take up
-    pinyin: |-
+    pinyin:
       - zhan1
       - zhan4
-    simplified: 占
     traditional: 佔
   挣:
     english: to struggle to get free/to strive to acquire/to make (money)
-    pinyin: |-
+    pinyin:
       - zheng1
       - zheng4
-    simplified: 挣
     traditional: 掙
   支:
     english: to support/to sustain/to erect/to raise/branch/division/to draw
-      money/classifier for rods such as pens and guns, for army divisions and
-      for songs or compositions
+        money/classifier for rods such as pens and guns, for army divisions and
+        for songs or compositions
     pinyin: zhi1
-    simplified: 支
   正:
-    english: |-
+    english:
       - first month of the lunar year
-      - straight/upright/proper/main/principal/to correct/to
-      rectify/exactly/just (at that time)/right (in that place)/(math.) positive
-    pinyin: |-
+      - >-
+        straight/upright/proper/main/principal/to correct/to
+        rectify/exactly/just (at that time)/right (in that place)/(math.)
+        positive
+    pinyin:
       - zheng1
       - zheng4
-    simplified: 正
   涨:
-    english: |-
-      - to rise (of prices, rivers)
+    english:
+      - 'to rise (of prices, rivers)'
       - to swell/to distend
-    pinyin: |-
+    pinyin:
       - zhang3
       - zhang4
-    simplified: 涨
     traditional: 漲
   煮:
     english: to cook/to boil
     pinyin: zhu3
-    simplified: 煮
     traditional: 煑
   直:
-    english: |-
-      - surname Zhi/Zhi (c. 2000 BC), fifth of the legendary Flame Emperors
-      炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God
-      - straight/to straighten/fair and
-      reasonable/frank/straightforward/(indicates continuing motion or
-      action)/vertical/vertical downward stroke in Chinese characters
+    english:
+      - >-
+        surname Zhi/Zhi (c. 2000 BC), fifth of the legendary Flame Emperors
+        炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God
+      - >-
+        straight/to straighten/fair and
+        reasonable/frank/straightforward/(indicates continuing motion or
+        action)/vertical/vertical downward stroke in Chinese characters
     pinyin: zhi2
-    simplified: 直
   组:
     english: to form/to organize/group/team/classifier for sets, series, groups of
-      people, batteries
+        people, batteries
     pinyin: zu3
-    simplified: 组
     traditional: 組
   资源:
-    english: |-
-      - Ziyuan county in Guilin 桂林[Gui4 lin2], Guangxi
-      - natural resource (such as water or minerals)/resource (such as manpower
-      or tourism)
+    english:
+      - 'Ziyuan county in Guilin 桂林[Gui4 lin2], Guangxi'
+      - >-
+        natural resource (such as water or minerals)/resource (such as manpower
+        or tourism)
     pinyin: zi1 yuan2
-    simplified: 资源
     traditional: 資源
   追:
-    english: |-
+    english:
       - to sculpt/to carve/musical instrument (old)
-      - to chase after/to seek/to do one's utmost to seek or procure sth/to
-      recall
-    pinyin: |-
+      - >-
+        to chase after/to seek/to do one's utmost to seek or procure sth/to
+        recall
+    pinyin:
       - dui1
       - zhui1
-    simplified: 追
 '41':
   奔驰:
-    english: |-
-      - Benz (name)/Mercedes-Benz, German car maker
+    english:
+      - 'Benz (name)/Mercedes-Benz, German car maker'
       - to run quickly/to speed/to gallop
     pinyin: ben1 chi2
-    simplified: 奔驰
     traditional: 奔馳
   安宁:
-    english: |-
-      - Anning District of Lanzhou City 蘭州市|兰州市[Lan2 zhou1 Shi4], Gansu/Anning
-      City, to the west of Kunming 昆明[Kun1 ming2], Yunnan
+    english:
+      - >-
+        Anning District of Lanzhou City 蘭州市|兰州市[Lan2 zhou1 Shi4], Gansu/Anning
+        City, to the west of Kunming 昆明[Kun1 ming2], Yunnan
       - peaceful/tranquil/calm/composed/free from worry
     pinyin: an1 ning2
-    simplified: 安宁
     traditional: 安寧
   扁:
-    english: |-
-      - flat/(coll.) to beat (sb) up
+    english:
+      - 'flat/(coll.) to beat (sb) up/old variant of 匾[bian3]'
       - small boat
-    pinyin: |-
+    pinyin:
       - bian3
       - pian1
-    simplified: 扁
-    traditional: 匾
   扒:
-    english: |-
-      - to peel/to skin/to tear/to pull down/to cling to (sth on which one is
-      climbing)/to dig
+    english:
+      - >-
+        to peel/to skin/to tear/to pull down/to cling to (sth on which one is
+        climbing)/to dig
       - to rake up/to steal/to braise/to crawl
-    pinyin: |-
+    pinyin:
       - ba1
       - pa2
-    simplified: 扒
   把手:
-    english: |-
+    english:
       - to shake hands
       - handle/grip/knob
-    pinyin: |-
+    pinyin:
       - ba3 shou3
       - ba3 shou5
-    simplified: 把手
   挨:
-    english: |-
+    english:
       - in order/in sequence/close to/adjacent to
-      - to suffer/to endure/to pull through (hard times)/to delay/to stall/to
-      play for time/to dawdle
-    pinyin: |-
+      - >-
+        to suffer/to endure/to pull through (hard times)/to delay/to stall/to
+        play for time/to dawdle
+    pinyin:
       - ai1
       - ai2
-    simplified: 挨
   本事:
-    english: |-
+    english:
       - source material/original story
       - ability/skill
-    pinyin: |-
+    pinyin:
       - ben3 shi4
       - ben3 shi5
-    simplified: 本事
   熬:
-    english: |-
+    english:
       - to boil/to simmer
       - to cook on a slow fire/to extract by heating/to decoct/to endure
-    pinyin: |-
+    pinyin:
       - ao1
       - ao2
-    simplified: 熬
   甭:
-    english: |-
+    english:
       - contraction of 不用/need not/please don't
       - (dialect) very
-    pinyin: |-
+    pinyin:
       - beng2
       - beng4
-    simplified: 甭
 '42':
   别致:
-    english: nusual/unique
+    english: unusual/unique
     pinyin: bie2 zhi4
-    simplified: 别致
-    traditional: |-
+    traditional:
       - 別緻
       - 別致
 '43':
   乘:
-    english: |-
-      - to ride/to mount/to make use of/to avail oneself of/to take advantage
-      of/to multiply (math.)/Buddhist sect or creed
-      - four horse military chariot (archaic)/four (archaic)/generic term for
-      history books
-    pinyin: |-
+    english:
+      - >-
+        to ride/to mount/to make use of/to avail oneself of/to take advantage
+        of/to multiply (math.)/Buddhist sect or creed
+      - >-
+        four horse military chariot (archaic)/four (archaic)/generic term for
+        history books
+    pinyin:
       - cheng2
       - sheng4
-    simplified: 乘
     traditional: 椉
   出息:
-    english: |-
-      - to yield interest, profit etc/to exhale (Buddhism)
+    english:
+      - 'to yield interest, profit etc/to exhale (Buddhism)'
       - future prospects/profit/to mature/to grow up
-    pinyin: |-
+    pinyin:
       - chu1 xi1
       - chu1 xi5
-    simplified: 出息
   刺:
-    english: |-
+    english:
       - (onom.) whoosh
       - thorn/sting/thrust/to prick/to pierce/to stab/to assassinate/to murder
-    pinyin: |-
+    pinyin:
       - ci1
       - ci4
-    simplified: 刺
   大意:
-    english: |-
+    english:
       - general idea/main idea
       - careless
-    pinyin: |-
+    pinyin:
       - da4 yi4
       - da4 yi5
-    simplified: 大意
   澄清:
-    english: |-
-      - clear (of liquid)/limpid/to clarify/to make sth clear/to be clear (about
-      the facts)
-      - to settle (of liquid)/to become clear (by precipitation of
-      impurities)/precipitate (chemistry)/to put in order/to quell disturbances
-    pinyin: |-
+    english:
+      - >-
+        clear (of liquid)/limpid/to clarify/to make sth clear/to be clear (about
+        the facts)
+      - >-
+        to settle (of liquid)/to become clear (by precipitation of
+        impurities)/precipitate (chemistry)/to put in order/to quell
+        disturbances
+    pinyin:
       - cheng2 qing1
       - deng4 qing1
-    simplified: 澄清
   盛:
-    english: |-
+    english:
       - to hold/to contain/to ladle/to pick up with a utensil
       - flourishing/vigorous/magnificent/extensively
-    pinyin: |-
+    pinyin:
       - cheng2
       - sheng4
-    simplified: 盛
   秤:
-    english: |-
-      - to weigh
-      - steelyard/Roman balance/CL:臺|台[tai2]
-    pinyin: |-
+    english:
+      - 'variant of 稱|称[cheng1], to weigh'
+      - 'steelyard/Roman balance/CL:臺|台[tai2]'
+    pinyin:
       - cheng1
       - cheng4
-    simplified: 秤
   答复:
     english: 'to answer/to reply/Reply to: (in email header)'
     pinyin: da2 fu4
-    simplified: 答复
-    traditional: |-
+    traditional:
       - 答復
       - 答覆
   锤:
-    english: |-
-      - hammer/to hammer into shape/weight (e.g. of a steelyard or balance)/to
-      strike with a hammer
+    english: hammer/to hammer into shape/weight (e.g. of a steelyard or balance)/to
+        strike with a hammer
     pinyin: chui2
-    simplified: 锤
-    traditional: |-
+    traditional:
       - 錘
       - 鎚
 '44':
   丁:
     english: 'fourth of the ten Heavenly Stems 十天干[shi2 tian1 gan1]/fourth in
-      order/letter "D" or Roman "IV" in list "A, B, C", or "I, II, III"
-      etc/ancient Chinese compass point: 195°/butyl/cubes (of food)'
+        order/letter "D" or Roman "IV" in list "A, B, C", or "I, II, III"
+        etc/ancient Chinese compass point: 195°/butyl/cubes (of food)'
     pinyin: ding1
-    simplified: 丁
   党:
-    english: party/association/club/society/CL:個|个[ge4]
+    english: 'party/association/club/society/CL:個|个[ge4]'
     pinyin: dang3
-    simplified: 党
     traditional: 黨
   兜:
-    english: |-
-      - pocket/bag/to wrap up or hold in a bag/to move in a circle/to canvas or
-      solicit/to take responsibility for/to disclose in detail/combat armor
-      (old)
+    english: pocket/bag/to wrap up or hold in a bag/to move in a circle/to canvas or
+        solicit/to take responsibility for/to disclose in detail/combat armor
+        (old)
     pinyin: dou1
-    simplified: 兜
     traditional: 兠
   动荡:
     english: unrest (social or political)/turmoil/upheaval/commotion
     pinyin: dong4 dang4
-    simplified: 动荡
-    traditional: |-
+    traditional:
       - 動盪
       - 動蕩
   发布:
-    english: release/to issue/to announce/to distribute
+    english: to release/to issue/to announce/to distribute
     pinyin: fa1 bu4
-    simplified: 发布
-    traditional: |-
+    traditional:
       - 發佈
       - 發布
   吊:
-    english: |-
+    english:
       - to suspend/to hang up/to hang a person
-      - a string of 100 cash (arch.)/to lament/to condole with
+      - >-
+        a string of 100 cash (arch.)/to lament/to condole with
     pinyin: diao4
-    simplified: 吊
     traditional: 弔
   得罪:
-    english: |-
-      - to commit an offense/to violate the law/excuse me! (formal)
-      - to offend sb/to make a faux pas/a faux pas/see also 得罪[de2 zui4]
-    pinyin: |-
+    english:
+      - >-
+        to commit an offense/to violate the law/excuse me! (formal)
+      - 'to offend sb/to make a faux pas/a faux pas'
+    pinyin:
       - de2 zui4
       - de2 zui5
-    simplified: 得罪
   恶心:
-    english: |-
+    english:
       - nausea/to feel sick/disgust/nauseating/to embarrass (deliberately)
       - bad habit/vicious habit/vice
-    pinyin: |-
+    pinyin:
       - e3 xin1
       - e4 xin1
-    simplified: 恶心
-    traditional: |-
+    traditional:
       - 噁心
       - 惡心
   淡水:
-    english: |-
-      - Danshui or Tanshui town in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan
+    english:
+      - 'Danshui or Tanshui town in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan'
       - potable water (water with low salt content)/fresh water
     pinyin: dan4 shui3
-    simplified: 淡水
   端:
-    english: |-
-      - end/extremity/item/port/to hold sth level with both hands/to
-      carry/regular
-      - old variant of 端[duan1]/start/origin
+    english:
+      - >-
+        end/extremity/item/port/to hold sth level with both hands/to
+        carry/regular
+      - 'start/origin'
     pinyin: duan1
-    simplified: 端
     traditional: 耑
 '45':
   丰满:
-    english: |-
-      - Fengman district of Jilin city 吉林市, Jilin province
+    english:
+      - 'Fengman district of Jilin city 吉林市, Jilin province'
       - ample/well developed/fully rounded
     pinyin: feng1 man3
-    simplified: 丰满
     traditional: 豐滿
   分量:
-    english: |-
+    english:
       - (vector) component
       - quantity/weight/measure
-    pinyin: |-
+    pinyin:
       - fen1 liang4
       - fen4 liang5
-    simplified: 分量
   复兴:
-    english: |-
-      - Fuxing district of Handan city 邯鄲市|邯郸市[Han2 dan1 shi4], Hebei/Fuxing or
-      Fuhsing township in Taoyuan county 桃園縣|桃园县[Tao2 yuan2 xian4], north Taiwan
+    english:
+      - >-
+        Fuxing district of Handan city 邯鄲市|邯郸市[Han2 dan1 shi4], Hebei/Fuxing or
+        Fuhsing township in Taoyuan county 桃園縣|桃园县[Tao2 yuan2 xian4], north
+        Taiwan
       - to revive/to rejuvenate
     pinyin: fu4 xing1
-    simplified: 复兴
     traditional: 復興
   富裕:
-    english: |-
-      - Fuyu county in Qiqihar 齊齊哈爾|齐齐哈尔[Qi2 qi2 ha1 er3], Heilongjiang
+    english:
+      - 'Fuyu county in Qiqihar 齊齊哈爾|齐齐哈尔[Qi2 qi2 ha1 er3], Heilongjiang'
       - prosperous/well-to-do/well-off
     pinyin: fu4 yu4
-    simplified: 富裕
   方言:
-    english: |-
-      - the first Chinese dialect dictionary, edited by Yang Xiong 揚雄|扬雄[Yang2
-      Xiong2] in 1st century, containing over 9000 characters
+    english:
+      - >-
+        the first Chinese dialect dictionary, edited by Yang Xiong 揚雄|扬雄[Yang2
+        Xiong2] in 1st century, containing over 9000 characters
       - topolect/dialect
     pinyin: fang1 yan2
-    simplified: 方言
   番:
     english: 'foreign (non-Chinese)/barbarian/classifier for occurrences (of an event,
-      action or speech utterance)/classifier for iterations: times, -fold (as in
-      twofold etc)/classifier for situations: kind, sort'
-    pinyin: |-
-      - Pan1
-      - fan1
-    simplified: 番
+        action or speech utterance)/classifier for iterations: times, -fold (as
+        in twofold etc)/classifier for situations: kind, sort'
+    pinyin: fan1
 '46':
   公道:
-    english: |-
+    english:
       - justice/fairness/public highway
       - fair/equitable
-    pinyin: |-
+    pinyin:
       - gong1 dao4
       - gong1 dao5
-    simplified: 公道
   搁:
-    english: |-
+    english:
       - to place/to put aside/to shelve
       - to bear/to stand/to endure
-    pinyin: |-
+    pinyin:
       - ge1
       - ge2
-    simplified: 搁
     traditional: 擱
   罐:
-    english: |-
-      - can/jar/pot
+    english: can/jar/pot
     pinyin: guan4
-    simplified: 罐
     traditional: 鑵
   跟前:
-    english: |-
+    english:
       - the front (of)/(in) front/(in) sb's presence/just before (a date)
-      - (of children, parents etc) at one's side/living with one
-    pinyin: |-
+      - '(of children, parents etc) at one''s side/living with one'
+    pinyin:
       - gen1 qian2
       - gen1 qian5
-    simplified: 跟前
   高明:
-    english: |-
-      - Gaoming district of Foshan city 佛山市[Fo2 shan1 shi4], Guangdong
+    english:
+      - 'Gaoming district of Foshan city 佛山市[Fo2 shan1 shi4], Guangdong'
       - brilliant/superior/tall and bright
-    pinyin: gao1 ming2
-    simplified: 高明
+    pinyin:
+      - Gao1 ming2
+      - gao1 ming2
 '47':
   合并:
     english: to merge/to annex
     pinyin: he2 bing4
-    simplified: 合并
-    traditional: |-
+    traditional:
       - 合並
       - 合併
   呵:
-    english: expel breath/my goodness
-    pinyin: |-
+    english:
+      - 'variant of 啊[a1]'
+      - expel breath/my goodness
+    pinyin:
       - a1
       - he1
-    simplified: 呵
   哄:
-    english: |-
+    english:
       - roar of laughter (onom.)/hubbub/to roar (as a crowd)
       - to deceive/to coax/to amuse (a child)
       - tumult/uproar/commotion/disturbance
-    pinyin: |-
+    pinyin:
       - hong1
       - hong3
       - hong4
-    simplified: 哄
-    traditional: |-
+    traditional:
       - 閧
       - 鬨
   回避:
     english: to shun/to avoid (sb)/to skirt/to evade (an issue)/to step back/to
-      withdraw/to recuse (a judge etc)
+        withdraw/to recuse (a judge etc)
     pinyin: hui2 bi4
-    simplified: 回避
     traditional: 迴避
   晃:
-    english: |-
+    english:
       - to dazzle/to flash past
       - to sway/to shake/to wander about
-    pinyin: |-
+    pinyin:
       - huang3
       - huang4
-    simplified: 晃
     traditional: 㨪
   横:
-    english: |-
+    english:
       - horizontal/across/(horizontal character stroke)
       - harsh and unreasonable/unexpected
-    pinyin: |-
+    pinyin:
       - heng2
       - heng4
-    simplified: 横
     traditional: 橫
   汇报:
     english: to report/to give an account of/to collect information and report back
     pinyin: hui4 bao4
-    simplified: 汇报
-    traditional: |-
+    traditional:
       - 匯報
       - 彙報
 '48':
   井:
-    english: |-
-      - Jing, one of the 28 constellations of Chinese astronomy/surname Jing
-      - a well/CL:口[kou3]/neat/orderly
+    english:
+      - 'Jing, one of the 28 constellations of Chinese astronomy/surname Jing'
+      - 'a well/CL:口[kou3]/neat/orderly'
     pinyin: jing3
-    simplified: 井
   剑:
-    english: double-edged sword/CL:口[kou3],把[ba3]/classifier for blows of a sword
+    english: 'double-edged sword/CL:口[kou3],把[ba3]/classifier for blows of a sword'
     pinyin: jian4
-    simplified: 剑
-    traditional: |-
+    traditional:
       - 劍
       - 劒
   家伙:
     english: household dish, implement or furniture/domestic animal/(coll.)
-      guy/chap/weapon
+        guy/chap/weapon
     pinyin: jia1 huo5
-    simplified: 家伙
     traditional: 傢伙
   将军:
-    english: |-
-      - Chiangchun township in Tainan county 台南縣|台南县[Tai2 nan2 xian4], Taiwan
-      - general/high-ranking military officer/to check or checkmate/fig. to
-      embarrass/to challenge/to put sb on the spot
+    english:
+      - 'Chiangchun township in Tainan county 台南縣|台南县[Tai2 nan2 xian4], Taiwan'
+      - >-
+        general/high-ranking military officer/to check or checkmate/fig. to
+        embarrass/to challenge/to put sb on the spot
     pinyin: jiang1 jun1
-    simplified: 将军
     traditional: 將軍
 '49':
   卷:
-    english: |-
-      - to roll up/roll/classifier for small rolled things (wad of paper money,
-      movie reel etc)
-      - scroll/book/volume/chapter/examination paper/classifier for books,
-      paintings: volume, scroll
+    english:
+      - >-
+        to roll up/roll/classifier for small rolled things (wad of paper money,
+        movie reel etc)
+      - >-
+        scroll/book/volume/chapter/examination paper/classifier for books,
+        paintings: volume, scroll
       - to roll (up)/to sweep up/to carry on/roll
-    pinyin: |-
+    pinyin:
       - juan3
       - juan4
-    simplified: 卷
     traditional: 捲
   口音:
-    english: |-
+    english:
       - oral speech sounds (linguistics)
       - voice/accent
-    pinyin: |-
+    pinyin:
       - kou3 yin1
       - kou3 yin5
-    simplified: 口音
   啦:
-    english: |-
-      - (onom.) sound of singing, cheering etc/(phonetic)/(dialect) to chat
-      - sentence-final particle, contraction of 了啊, indicating
-      exclamation/particle placed after each item in a list of examples
-    pinyin: |-
+    english:
+      - '(onom.) sound of singing, cheering etc/(phonetic)/(dialect) to chat'
+      - >-
+        sentence-final particle, contraction of 了啊, indicating
+        exclamation/particle placed after each item in a list of examples
+    pinyin:
       - la1
       - la5
-    simplified: 啦
   坑:
-    english: |-
-      - hole/pit/tunnel/to defraud
-      - variant of 坑[keng1]/pit/hole
+    english: hole/pit/tunnel/to defraud
     pinyin: keng1
-    simplified: 坑
     traditional: 阬
   孔:
-    english: hole/CL:個|个[ge4]/classifier for cave dwellings
+    english: 'hole/CL:個|个[ge4]/classifier for cave dwellings'
     pinyin: kong3
-    simplified: 孔
   局限:
     english: to limit/to confine/to restrict sth within set boundaries
     pinyin: ju2 xian4
-    simplified: 局限
     traditional: 侷限
   扛:
-    english: |-
-      - to raise aloft with both hands/(of two or more people) to carry sth
-      together
-      - to carry on one's shoulder/(fig.) to take on (a burden, duty etc)
-    pinyin: |-
+    english:
+      - >-
+        to raise aloft with both hands/(of two or more people) to carry sth
+        together
+      - 'to carry on one''s shoulder/(fig.) to take on (a burden, duty etc)'
+    pinyin:
       - gang1
       - kang2
-    simplified: 扛
     traditional: 摃
   扣:
-    english: |-
-      - to fasten/to button/button/buckle/knot/to arrest/to confiscate/to deduct
-      (money)/discount/to knock/to smash, spike or dunk (a ball)/to cover (with
-      a bowl etc)/fig. to tag a label on sb
+    english:
+      - >-
+        to fasten/to button/button/buckle/knot/to arrest/to confiscate/to deduct
+        (money)/discount/to knock/to smash, spike or dunk (a ball)/to cover
+        (with a bowl etc)/fig. to tag a label on sb
       - button
     pinyin: kou4
-    simplified: 扣
     traditional: 釦
   款式:
-    english: |-
-      - pattern/style/design/CL:種|种[zhong3]
+    english:
+      - 'pattern/style/design/CL:種|种[zhong3]'
       - elegant/elegance/good taste
-    pinyin: |-
+    pinyin:
       - kuan3 shi4
       - kuan3 shi5
-    simplified: 款式
   磕:
     english: to tap/to knock (against sth hard)/to knock (mud from boots, ashes from
-      a pipe etc)
-    pinyin: |-
+        a pipe etc)
+    pinyin:
       - ke1
       - ke4
-    simplified: 磕
 '5':
   坐:
     english: to sit/to take a seat/to take (a bus, airplane etc)/to bear
-      fruit
+        fruit/variant of 座[zuo4]
     pinyin: zuo4
-    simplified: 坐
-    traditional: 座
   怎么:
     english: how?/what?/why?
     pinyin: zen3 me5
-    simplified: 怎么
-    traditional: |-
+    traditional:
       - 怎麼
       - 怎麽
 '50':
   利害:
-    english: |-
+    english:
       - pros and cons/advantages and disadvantages/gains and losses
-      - terrible/formidable/serious/devastating/tough/capable/sharp/severe/fierce
-    pinyin: |-
+      - >-
+        terrible/formidable/serious/devastating/tough/capable/sharp/severe/fierce
+    pinyin:
       - li4 hai4
       - li4 hai5
-    simplified: 利害
   弥漫:
-    english: |-
-      - to pervade/to fill the air/diffuse/everywhere present/about to inundate
-      (water)/permeated by (smoke)/filled with (dust)/to saturate (the air with
-      fog, smoke etc)
+    english: to pervade/to fill the air/diffuse/everywhere present/about to inundate
+        (water)/permeated by (smoke)/filled with (dust)/to saturate (the air
+        with fog, smoke etc)
     pinyin: mi2 man4
-    simplified: 弥漫
-    traditional: |-
+    traditional:
       - 彌漫
       - 瀰漫
   搂:
-    english: |-
-      - to draw towards oneself/to gather/to gather up (one's gown, sleeves
-      etc)/to grab (money)/to extort
+    english:
+      - >-
+        to draw towards oneself/to gather/to gather up (one's gown, sleeves
+        etc)/to grab (money)/to extort
       - to hug/to embrace/to hold in one's arms
-    pinyin: |-
+    pinyin:
       - lou1
       - lou3
-    simplified: 搂
     traditional: 摟
   枚:
     english: classifier for coins, rings, badges, pearls, sporting medals, rockets,
-      satellites etc/tree trunk/whip/wooden peg, used as a gag for marching
-      soldiers (old)
+        satellites etc/tree trunk/whip/wooden peg, used as a gag for marching
+        soldiers (old)
     pinyin: mei2
-    simplified: 枚
   淋:
-    english: |-
+    english:
       - to sprinkle/to drip/to pour/to drench
       - to filter/to strain/to drain/gonorrhea/(TCM) strangury
-    pinyin: |-
+    pinyin:
       - lin2
       - lin4
-    simplified: 淋
   眯:
-    english: |-
-      - to blind (as with dust)/Taiwan pr. [mi3]
+    english:
+      - 'to blind (as with dust)/Taiwan pr. [mi3]'
       - to narrow one's eyes/to squint/(dialect) to take a nap
-    pinyin: |-
+    pinyin:
       - mi2
       - mi1
-    simplified: 眯
     traditional: 瞇
   联想:
-    english: to associate (cognitively)/to make an associative connection/mental
-      association/word prediction and auto-complete functions of input method
-      editing programs
+    english:
+      - 'abbr. for 聯想集團|联想集团[Lian2 xiang3 Ji2 tuan2]'
+      - >-
+        to associate (cognitively)/to make an associative connection/mental
+        association/word prediction and auto-complete functions of input method
+        editing programs
     pinyin: lian2 xiang3
-    simplified: 联想
     traditional: 聯想
 '51':
   劈:
-    english: |-
+    english:
       - to hack/to chop/to split open/(of lightning) to strike
       - to split in two/to divide
-    pinyin: |-
+    pinyin:
       - pi1
       - pi3
-    simplified: 劈
   哦:
-    english: |-
+    english:
       - to chant
       - oh (interjection indicating doubt or surprise)
       - oh (interjection indicating that one has just learned sth)
-      - sentence-final particle that conveys informality, warmth, friendliness
-      or intimacy/may also indicate that one is stating a fact that the other
-      person is not aware of
-    pinyin: |-
+      - >-
+        sentence-final particle that conveys informality, warmth, friendliness
+        or intimacy/may also indicate that one is stating a fact that the other
+        person is not aware of
+    pinyin:
       - e2
       - o2
       - o4
       - o5
-    simplified: 哦
   拧:
-    english: |-
+    english:
       - to pinch/wring
       - mistake/to twist
       - stubborn
-    pinyin: |-
+    pinyin:
       - ning2
       - ning3
       - ning4
-    simplified: 拧
     traditional: 擰
   捏:
-    english: |-
-      - to pinch (with one's fingers)/to knead/to make up
+    english: to pinch (with one's fingers)/to knead/to make up
     pinyin: nie1
-    simplified: 捏
     traditional: 揑
   撇:
-    english: |-
+    english:
       - to cast away/to fling aside
       - to throw/to cast/left-slanting downward brush stroke (calligraphy)
-    pinyin: |-
+    pinyin:
       - pie1
       - pie3
-    simplified: 撇
   纽扣儿:
-    english: button
+    english: a button
     pinyin: niu3 kou4 r
-    simplified: 纽扣儿
 '52':
   凄凉:
-    english: |-
+    english:
       - mournful/miserable
       - desolate (place)
     pinyin: qi1 liang2
-    simplified: 凄凉
-    traditional: |-
+    traditional:
       - 悽涼
       - 淒涼
   启蒙:
     english: to instruct the young/to initiate/to awake sb from ignorance/to free sb
-      from prejudice or superstition/primer/enlightened/the
-      Enlightenment/Western learning from the late Qing dynasty
+        from prejudice or superstition/primer/enlightened/the
+        Enlightenment/Western learning from the late Qing dynasty
     pinyin: qi3 meng2
-    simplified: 启蒙
-    traditional: |-
+    traditional:
       - 啟矇
       - 啟蒙
   翘:
-    english: |-
+    english:
       - outstanding/to raise
       - to stick up/to rise on one end/to tilt
-    pinyin: |-
+    pinyin:
       - qiao2
       - qiao4
-    simplified: 翘
     traditional: 翹
   铺:
-    english: |-
-      - store
+    english:
+      - 'store'
       - to spread/to display/to set up/(old) holder for door-knocker
       - plank bed/place to sleep/shop/store/(old) relay station
-    pinyin: |-
+    pinyin:
       - pu4
       - pu1
-    simplified: 铺
-    traditional: |-
+    traditional:
       - 舖
       - 鋪
   颇:
-    english: rather/quite/considerably/oblique/inclined/slanting/Taiwan pr. [po3]
+    english: 'rather/quite/considerably/oblique/inclined/slanting/Taiwan pr. [po3]'
     pinyin: po1
-    simplified: 颇
     traditional: 頗
 '53':
   人家:
-    english: |-
-      - household/dwelling/family/sb else's house/household business/house of
-      woman's husband-to-be/CL:戶|户[hu4],家[jia1]
-      - other people/sb else/he, she or they/I, me (referring to oneself as
-      "one" or "people")
-    pinyin: |-
+    english:
+      - >-
+        household/dwelling/family/sb else's house/household business/house of
+        woman's husband-to-be/CL:戶|户[hu4],家[jia1]
+      - >-
+        other people/sb else/he, she or they/I, me (referring to oneself as
+        "one" or "people")
+    pinyin:
       - ren2 jia1
       - ren2 jia5
-    simplified: 人家
 '54':
   台风:
-    english: |-
-      - stage presence, poise
+    english:
+      - 'stage presence, poise'
       - hurricane/typhoon
     pinyin: tai2 feng1
-    simplified: 台风
-    traditional: |-
+    traditional:
       - 臺風
       - 颱風
   塔:
     english: pagoda/tower/minaret/stupa (abbr. loanword from Sanskrit
-      tapo)/CL:座[zuo4]
+        tapo)/CL:座[zuo4]
     pinyin: ta3
-    simplified: 塔
     traditional: 墖
   拾:
-    english: |-
+    english:
       - to ascend in light steps
       - to pick up/to collate or arrange/ten (banker's anti-fraud numeral)
-    pinyin: |-
+    pinyin:
       - she4
       - shi2
-    simplified: 拾
   束:
     english: to bind/bunch/bundle/classifier for bunches, bundles, beams of light
-      etc/to control
+        etc/to control
     pinyin: shu4
-    simplified: 束
   竖:
     english: to erect/vertical/vertical stroke (in Chinese characters)
     pinyin: shu4
-    simplified: 竖
-    traditional: |-
+    traditional:
       - 竪
       - 豎
   耍:
     english: to play with/to wield/to act (cool etc)/to display (a skill, one's
-      temper etc)
+        temper etc)
     pinyin: shua3
-    simplified: 耍
 '55':
   哇:
-    english: |-
+    english:
       - Wow!/sound of child's crying/sound of vomiting
-      - replaces 啊[a5] when following the vowel "u" or "ao"
-    pinyin: |-
+      - 'replaces 啊[a5] when following the vowel "u" or "ao"'
+    pinyin:
       - wa1
       - wa5
-    simplified: 哇
   威信:
-    english: |-
-      - Weixin county in Zhaotong 昭通[Zhao1 tong1], Yunnan
+    english:
+      - 'Weixin county in Zhaotong 昭通[Zhao1 tong1], Yunnan'
       - prestige/reputation/trust/credit with the people
     pinyin: wei1 xin4
-    simplified: 威信
   掏:
     english: to fish out (from pocket)/to scoop
     pinyin: tao1
-    simplified: 掏
     traditional: 搯
 '56':
   削:
-    english: |-
+    english:
       - to peel with a knife/to pare/to cut (a ball at tennis etc)
-      - to pare/to reduce/to remove/Taiwan pr. [xue4]
-    pinyin: |-
+      - 'to pare/to reduce/to remove/Taiwan pr. [xue4]'
+    pinyin:
       - xiao1
       - xue1
-    simplified: 削
   污蔑:
     english: to slander/to smear/to tarnish
     pinyin: wu1 mie4
-    simplified: 污蔑
     traditional: 污衊
   温和:
-    english: |-
+    english:
       - mild/gentle/moderate
       - lukewarm
-    pinyin: |-
+    pinyin:
       - wen1 he2
       - wen1 huo5
-    simplified: 温和
     traditional: 溫和
   溪:
     english: creek/rivulet
     pinyin: xi1
-    simplified: 溪
     traditional: 谿
   闲话:
-    english: digression/gossip/complaint/scandal/CL:段[duan4]
+    english: 'digression/gossip/complaint/scandal/CL:段[duan4]'
     pinyin: xian2 hua4
-    simplified: 闲话
-    traditional: |-
+    traditional:
       - 閑話
       - 閒話
 '57':
   兴隆:
-    english: |-
-      - Xinglong county in Chengde 承德[Cheng2 de2], Hebei
+    english:
+      - 'Xinglong county in Chengde 承德[Cheng2 de2], Hebei'
       - prosperous/thriving/flourishing
     pinyin: xing1 long2
-    simplified: 兴隆
     traditional: 興隆
   凶恶:
-    english: |-
+    english:
       - fierce/ferocious/fiendish/frightening
-      - fierce/ferocious/fiendish/frightening
+      - 'variant of 兇惡|凶恶, fierce/ferocious/fiendish/frightening'
     pinyin: xiong1 e4
-    simplified: 凶恶
-    traditional: |-
+    traditional:
       - 兇惡
       - 凶惡
   烟花爆竹:
-    english: fireworks / prostitute (esp. in Yuan theater) + firecracker
+    english: fireworks and firecrackers
     pinyin: yan1 hua1 bao4 zhu2
-    simplified: 烟花爆竹
   绣:
     english: to embroider/embroidery
     pinyin: xiu4
-    simplified: 绣
-    traditional: |-
+    traditional:
       - 綉
       - 繡
 '58':
   一目了然:
     english: obvious at a glance (idiom)
     pinyin: yi1 mu4 liao3 ran2
-    simplified: 一目了然
     traditional: 一目瞭然
   咋:
-    english: |-
+    english:
+      - 'dialectal equivalent of 怎麼|怎么[zen3 me5]'
       - gnaw
       - loud noise/shout/suddenly
-    pinyin: |-
+    pinyin:
       - za3
       - ze2
       - zha4
-    simplified: 咋
   愈:
-    english: |-
-      - the more...(the more...)/to recover/to heal/better
+    english: the more...(the more...)/to recover/to heal/better
     pinyin: yu4
-    simplified: 愈
     traditional: 癒
   攒:
-    english: |-
+    english:
       - to bring together
       - to collect/to hoard/to accumulate/to save
-    pinyin: |-
+    pinyin:
       - cuan2
       - zan3
-    simplified: 攒
     traditional: 攢
   熨:
-    english: |-
+    english:
       - reconciled/smooth
       - an iron/to iron
-    pinyin: |-
+    pinyin:
       - yu4
       - yun4
-    simplified: 熨
   翼:
-    english: |-
-      - surname Yi/alternative name for 絳|绛[Jiang4] capital of the Jin State
-      during the Spring and Autumn Period (770-475 BC)
-      - wing/area surrounding the bullseye of a target/to assist/one of the 28
-      constellations of Chinese astronomy/old variant of 翌
+    english:
+      - >-
+        surname Yi/alternative name for 絳|绛[Jiang4] capital of the Jin State
+        during the Spring and Autumn Period (770-475 BC)
+      - >-
+        wing/area surrounding the bullseye of a target/to assist/one of the 28
+        constellations of Chinese astronomy/old variant of 翌
     pinyin: yi4
-    simplified: 翼
 '59':
   扎:
-    english: |-
-      - to prick/to run or stick (a needle etc) into/jug (a classifier for
-      liquids such as beer)
+    english:
+      - >-
+        to prick/to run or stick (a needle etc) into/jug (a classifier for
+        liquids such as beer)
       - penetrating (as of cold)/struggle
-      - to tie/to bind/classifier for flowers, banknotes etc: bundle/Taiwan pr.
-      [zha2]
-    pinyin: |-
+      - >-
+        to tie/to bind/classifier for flowers, banknotes etc: bundle/Taiwan pr.
+        [zha2]
+    pinyin:
       - zha1
       - zha2
       - za1
-    simplified: 扎
-    traditional: |-
+    traditional:
       - 紥
       - 紮
   扎实:
-    english: |-
-      - strong/solid/sturdy/firm/practical
-      - see 扎實|扎实[zha1 shi5]
-    pinyin: |-
+    english: strong/solid/sturdy/firm/practical
+    pinyin:
       - zha1 shi5
       - zha2 shi5
-    simplified: 扎实
-    traditional: |-
+    traditional:
       - 扎實
       - 紮實
   折:
-    english: |-
+    english:
       - to break (e.g. stick or bone)/a loss
       - to turn sth over/to turn upside down/to tip sth out (of a container)
-      - to break/to fracture/to snap/to suffer loss/to bend/to twist/to turn/to
-      change direction/convinced/to convert into
-      (currency)/discount/rebate/tenth (in price)/classifier for theatrical
-      scenes/to fold/accounts book
-      - to fold
-    pinyin: |-
+      - >-
+        to break/to fracture/to snap/to suffer loss/to bend/to twist/to turn/to
+        change direction/convinced/to convert into
+        (currency)/discount/rebate/tenth (in price)/classifier for theatrical
+        scenes/to fold/accounts book
+      - 'variant of 折[zhe2]/to fold'
+    pinyin:
       - she2
       - zhe1
       - zhe2
-    simplified: 折
     traditional: 摺
   振兴:
-    english: |-
-      - Zhengxing district of Dandong city 丹東市|丹东市[Dan1 dong1 shi4], Liaoning
+    english:
+      - 'Zhengxing district of Dandong city 丹東市|丹东市[Dan1 dong1 shi4], Liaoning'
       - to revive/to revitalize/to invigorate/to re-energize
     pinyin: zhen4 xing1
-    simplified: 振兴
     traditional: 振興
   正当:
-    english: |-
+    english:
       - timely/just (when needed)
       - honest/reasonable/fair/sensible
-    pinyin: |-
+    pinyin:
       - zheng4 dang1
       - zheng4 dang4
-    simplified: 正当
     traditional: 正當
 '6':
   从:
     english: from/through/via/to follow/to obey/to engage in (an activity)/never (in
-      negative sentence)/(Taiwan pr. [zong4])
-      retainer/assistant/auxiliary/subordinate/related by common paternal
-      grandfather or earlier ancestor
+        negative sentence)/(Taiwan pr. [zong4])
+        retainer/assistant/auxiliary/subordinate/related by common paternal
+        grandfather or earlier ancestor
     pinyin: cong2
-    simplified: 从
     traditional: 從
   出:
-    english: |-
-      - to go out/to come out/to occur/to produce/to go beyond/to rise/to put
-      forth/to happen/(used after a verb to indicate an outward direction or a
-      positive result)/classifier for dramas, plays, operas etc
-      - (classifier for plays or chapters of classical
-      novels)
+    english:
+      - >-
+        to go out/to come out/to occur/to produce/to go beyond/to rise/to put
+        forth/to happen/(used after a verb to indicate an outward direction or a
+        positive result)/classifier for dramas, plays, operas etc
+      - >-
+        variant of 出[chu1] (classifier for plays or chapters of classical
+        novels)
     pinyin: chu1
-    simplified: 出
     traditional: 齣
   别:
-    english: |-
-      - to leave/to depart/to separate/to distinguish/to
-      classify/other/another/don't ...!/to pin/to stick (sth) in
-      - to make sb change their ways, opinions etc
-    pinyin: |-
+    english:
+      - >-
+        to leave/to depart/to separate/to distinguish/to
+        classify/other/another/don't ...!/to pin/to stick (sth) in
+      - 'to make sb change their ways, opinions etc'
+    pinyin:
       - bie2
       - bie4
-    simplified: 别
-    traditional: |-
+    traditional:
       - 別
       - 彆
   吧:
-    english: |-
-      - bar (loanword) (serving drinks, or providing Internet access etc)/to
-      puff (on a pipe etc)/(onom.) bang/abbr. for 貼吧|贴吧[tie1 ba1]
-      - (modal particle indicating suggestion or surmise)/...right?/...OK?/...I
-      presume.
+    english:
+      - >-
+        bar (loanword) (serving drinks, or providing Internet access etc)/to
+        puff (on a pipe etc)/(onom.) bang/abbr. for 貼吧|贴吧[tie1 ba1]
+      - >-
+        (modal particle indicating suggestion or surmise)/...right?/...OK?/...I
+        presume.
       - (onom.) smack!
-    pinyin: |-
+    pinyin:
       - ba1
       - ba5
       - bia1
-    simplified: 吧
   告诉:
-    english: |-
+    english:
       - to press charges/to file a complaint
       - to tell/to inform/to let know
-    pinyin: |-
+    pinyin:
       - gao4 su4
       - gao4 su5
-    simplified: 告诉
     traditional: 告訴
   得:
-    english: |-
-      - to obtain/to get/to gain/to catch (a
-      disease)/proper/suitable/proud/contented/to allow/to permit/ready/finished
-      - structural particle: used after a verb (or adjective as main verb),
-      linking it to following phrase indicating effect, degree, possibility etc
+    english:
+      - >-
+        to obtain/to get/to gain/to catch (a
+        disease)/proper/suitable/proud/contented/to allow/to
+        permit/ready/finished
+      - >-
+        structural particle: used after a verb (or adjective as main verb),
+        linking it to following phrase indicating effect, degree, possibility
+        etc
       - to have to/must/ought to/to need to
-    pinyin: |-
+    pinyin:
       - de2
       - de5
       - dei3
-    simplified: 得
   打篮球:
     english: to play basketball
-    pinyin: da3 lan2 qiu2
-    simplified: 打篮球
+    pinyin: da3 lan3 qiu2
   比:
-    english: |-
-      - Belgium/Belgian
-      - (particle used for comparison and "-er than")/to compare/to contrast/to
-      gesture (with hands)/ratio
+    english:
+      - 'Belgium/Belgian/abbr. for 比利時|比利时[Bi3 li4 shi2]'
+      - 'euphemistic variant of 屄[bi1]'
+      - >-
+        (particle used for comparison and "-er than")/to compare/to contrast/to
+        gesture (with hands)/ratio
       - to associate with/to be near
-    pinyin: |-
+    pinyin:
       - bi1
       - bi3
       - bi4
-    simplified: 比
-    traditional: 屄
   白:
-    english: |-
-      - white/snowy/pure/bright/empty/blank/plain/clear/to make clear/in
-      vain/gratuitous/free of charge/reactionary/anti-communist/funeral/to stare
-      coldly/to write wrong character/to state/to explain/vernacular/spoken
-      lines in opera
-    pinyin: |-
+    english:
+      - >-
+        white/snowy/pure/bright/empty/blank/plain/clear/to make clear/in
+        vain/gratuitous/free of charge/reactionary/anti-communist/funeral/to
+        stare coldly/to write wrong character/to state/to
+        explain/vernacular/spoken lines in opera
+    pinyin:
       - bai2
-    simplified: 白
   百:
     english: hundred/numerous/all kinds of
     pinyin: bai3
-    simplified: 百
   错:
     english: mistake/wrong/bad/interlocking/complex/to grind/to polish/to
-      alternate/to stagger/to miss/to let slip/to evade/to inlay with gold or
-      silver
+        alternate/to stagger/to miss/to let slip/to evade/to inlay with gold or
+        silver
     pinyin: cuo4
-    simplified: 错
     traditional: 錯
   长:
-    english: |-
+    english:
       - length/long/forever/always/constantly
       - chief/head/elder/to grow/to develop/to increase/to enhance
-    pinyin: |-
+    pinyin:
       - chang2
       - zhang3
-    simplified: 长
     traditional: 長
   高:
     english: high/tall/above average/loud/your (honorific)
     pinyin: gao1
-    simplified: 高
 '60':
   众所周知:
     english: as everyone knows (idiom)
     pinyin: zhong4 suo3 zhou1 zhi1
-    simplified: 众所周知
-    traditional: |-
+    traditional:
       - 眾所周知
       - 眾所週知
   幢:
-    english: |-
+    english:
       - banner
       - classifier for buildings/carriage curtain (old)
-    pinyin: |-
+    pinyin:
       - chuang2
       - zhuang4
-    simplified: 幢
   拽:
-    english: |-
+    english:
       - to drag/to haul
       - to throw/to fling
-      - alternate writing of 跩[zhuai3]
+      - 'alternate writing of 跩[zhuai3]'
       - to pull/to tug at (sth)
-    pinyin: |-
+    pinyin:
       - ye4
       - zhuai1
       - zhuai3
       - zhuai4
-    simplified: 拽
   琢磨:
-    english: |-
+    english:
       - to carve and polish (jade)/to polish and refine a literary work
-      - to ponder/to mull over/to think through/Taiwan pr. [zhuo2 mo2]
-    pinyin: |-
+      - 'to ponder/to mull over/to think through/Taiwan pr. [zhuo2 mo2]'
+    pinyin:
       - zhuo2 mo2
       - zuo2 mo5
-    simplified: 琢磨
   砖:
-    english: brick/CL:塊|块[kuai4]
+    english: 'brick/CL:塊|块[kuai4]'
     pinyin: zhuan1
-    simplified: 砖
-    traditional: |-
+    traditional:
       - 塼
       - 甎
       - 磚
   粥:
-    english: congee/gruel/porridge/CL:碗[wan3]
-    pinyin: |-
+    english:
+      - 'see 葷粥|荤粥[Xun1 yu4]'
+      - 'congee/gruel/porridge/CL:碗[wan3]'
+    pinyin:
       - yu4
       - zhou1
-    simplified: 粥
 '7':
   好吃:
-    english: |-
+    english:
       - tasty/delicious
       - to be fond of eating/to be gluttonous
-    pinyin: |-
+    pinyin:
       - hao3 chi1
       - hao4 chi1
-    simplified: 好吃
   红:
     english: red/popular/revolutionary/bonus
     pinyin: hong2
-    simplified: 红
     traditional: 紅
   给:
-    english: |-
-      - to/for/for the benefit of/to give/to allow/to do sth (for
-      sb)/(grammatical equivalent of 被)/(grammatical equivalent of 把)/(sentence
-      intensifier)
+    english:
+      - >-
+        to/for/for the benefit of/to give/to allow/to do sth (for
+        sb)/(grammatical equivalent of 被)/(grammatical equivalent of
+        把)/(sentence intensifier)
       - to supply/to provide
-    pinyin: |-
+    pinyin:
       - gei3
       - ji3
-    simplified: 给
     traditional: 給
   过:
-    english: |-
-      - to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to
-      get along/excessively/too-
+    english:
+      - >-
+        to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to
+        get along/excessively/too-
       - (experienced action marker)
-    pinyin: |-
+    pinyin:
       - guo4
       - guo5
-    simplified: 过
     traditional: 過
   还:
-    english: |-
-      - still/still in progress/still more/yet/even more/in
-      addition/fairly/passably (good)/as early as/even/also/else
+    english:
+      - >-
+        still/still in progress/still more/yet/even more/in
+        addition/fairly/passably (good)/as early as/even/also/else
       - to pay back/to return
-    pinyin: |-
+    pinyin:
       - hai2
       - huan2
-    simplified: 还
     traditional: 還
   黑:
-    english: |-
-      - abbr. for Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1]
-      - black/dark/sinister/secret/shady/illegal/to hide (sth) away/to
-      vilify/(loanword) to hack (computing)
+    english:
+      - 'abbr. for Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1]'
+      - >-
+        black/dark/sinister/secret/shady/illegal/to hide (sth) away/to
+        vilify/(loanword) to hack (computing)
     pinyin: hei1
-    simplified: 黑
 '8':
   便宜:
-    english: |-
+    english:
       - convenient
       - cheap/inexpensive/small advantages/to let sb off lightly
-    pinyin: |-
+    pinyin:
       - bian4 yi2
       - pian2 yi5
-    simplified: 便宜
   千:
     english: thousand
     pinyin: qian1
-    simplified: 千
     traditional: 韆
   女:
-    english: |-
+    english:
       - female/woman/daughter
-      - archaic variant of 汝[ru3]
-    pinyin: |-
-      - nu:3
+      - 'archaic variant of 汝[ru3]'
+    pinyin:
+      - 'nu:3'
       - ru3
-    simplified: 女
   妻子:
-    english: |-
+    english:
       - wife and children
-      - wife/CL:個|个[ge4]
-    pinyin: |-
+      - 'wife/CL:個|个[ge4]'
+    pinyin:
       - qi1 zi3
       - qi1 zi5
-    simplified: 妻子
   日:
-    english: |-
-      - abbr. for 日本[Ri4 ben3], Japan
-      - sun/day/date, day of the month
+    english:
+      - 'abbr. for 日本[Ri4 ben3], Japan'
+      - 'sun/day/date, day of the month'
     pinyin: ri4
-    simplified: 日
   离:
-    english: |-
+    english:
       - mythical beast (archaic)
-      - to leave/to part from/to be away from/(in giving distances) from/without
-      (sth)/independent of/one of the Eight Trigrams 八卦[ba1 gua4], symbolizing
-      fire/☲
-    pinyin: |-
+      - >-
+        to leave/to part from/to be away from/(in giving distances) from/without
+        (sth)/independent of/one of the Eight Trigrams 八卦[ba1 gua4], symbolizing
+        fire/☲
+    pinyin:
       - chi1
       - li2
-    simplified: 离
     traditional: 離
   累:
-    english: |-
-      - to accumulate/to involve or implicate (Taiwan pr.
-      [lei4])/continuous/repeated
+    english:
+      - >-
+        to accumulate/to involve or implicate (Taiwan pr.
+        [lei4])/continuous/repeated
       - tired/weary/to strain/to wear out/to work hard
       - rope/to bind together/to twist around
-    pinyin: |-
+    pinyin:
       - lei3
       - lei4
       - lei2
-    simplified: 累
     traditional: 纍
   路:
-    english: road/CL:條|条[tiao2]/journey/route/line (bus etc)/sort/kind
+    english: 'road/CL:條|条[tiao2]/journey/route/line (bus etc)/sort/kind'
     pinyin: lu4
-    simplified: 路
   门:
     english: gate/door/CL:扇[shan4]/gateway/doorway/CL:個|个[ge4]/opening/valve/switch/way
-      to do something/knack/family/house/(religious) sect/school (of
-      thought)/class/category/phylum or division (taxonomy)/classifier for large
-      guns/classifier for lessons, subjects, branches of technology/(suffix)
-      -gate (i.e. scandal; derived from Watergate)
+        to do something/knack/family/house/(religious) sect/school (of
+        thought)/class/category/phylum or division (taxonomy)/classifier for
+        large guns/classifier for lessons, subjects, branches of
+        technology/(suffix) -gate (i.e. scandal; derived from Watergate)
     pinyin: men2
-    simplified: 门
     traditional: 門
 '9':
   往:
     english: to go (in a direction)/to/towards/(of a train) bound for/past/previous
     pinyin: wang3
-    simplified: 往
     traditional: 徃
   新:
-    english: |-
-      - abbr. for Xinjiang 新疆[Xin1 jiang1] or Singapore 新加坡[Xin1 jia1
-      po1]/surname Xin
+    english:
+      - >-
+        abbr. for Xinjiang 新疆[Xin1 jiang1] or Singapore 新加坡[Xin1 jia1
+        po1]/surname Xin
       - new/newly/meso- (chemistry)
     pinyin: xin1
-    simplified: 新
   玩:
     english: to play/to have fun/to trifle with/toy/sth used for amusement/curio or
-      antique (Taiwan pr. [wan4])/to keep sth for entertainment
+        antique (Taiwan pr. [wan4])/to keep sth for entertainment
     pinyin: wan2
-    simplified: 玩
     traditional: 翫
   笑:
-    english: laugh/smile/CL:個|个[ge4]
+    english: 'laugh/smile/CL:個|个[ge4]'
     pinyin: xiao4
-    simplified: 笑
     traditional: 咲
   踢足球:
     english: to play football
     pinyin: ti1 zu2 qiu2
-    simplified: 踢足球
   题:
     english: topic/problem for discussion/exam question/subject/to inscribe/to
-      mention/CL:個|个[ge4],道[dao4]
+        mention/CL:個|个[ge4],道[dao4]
     pinyin: ti2
-    simplified: 题
     traditional: 題

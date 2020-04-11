@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.20.0/themes/prism.css">
+</head>
+
+<body>
+  <form>
+    <textarea placeholder="Type what you want to speak here" name="q"></textarea>
+    <fieldset>
+      <label for="lang">Language: </label>
+      <input type="text" value="zh" name="lang" />
+
+      <button type="submit">Generate</button>
+    </fieldset>
+  </form>
+  <div>
+    <iframe id="speakIframe" src="./btn/index.html"
+      style="width: 20px; height: 20px;"
+      frameborder="0" allowtransparency="true"></iframe>
+  </div>
+  <div id="example" style="display: none;">
+    <p>
+      Now, add the following code to your website.
+    </p>
+    <pre>
+      <code lang="html" class="language-html"></code>
+    </pre>
+  </div>
+
+  <script src="main.ts"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.20.0/components/prism-core.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"></script>
+</body>
+
+</html>

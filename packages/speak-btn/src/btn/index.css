@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: none transparent;
+  /* background-color: white; */
+}
+
+#speakButton {
+  background-color: #ffeaa7;
+  border: none;
+  border-radius: 50%;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

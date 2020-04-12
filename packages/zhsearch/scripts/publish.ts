@@ -70,7 +70,11 @@ import hbs from 'handlebars'
           traditional,
           pinyin,
           english,
-          sentence: ss.map((s) => `- ${s.chinese}\n` + `    - ${s.english}`).join('\n')
+          sentence: ss.map((s) => `- ${s.chinese}${
+            `<iframe src="https://speak-btn.now.sh/btn?q=${encodeURIComponent(s.chinese)}&lang=zh"
+              style="width: 20px; height: 20px;"
+              frameborder="0" allowtransparency="true"></iframe>`.replace(/\s+/g, ' ')
+          }\n` + `    - ${s.english}`).join('\n')
         }
       },
       {
@@ -99,7 +103,7 @@ import hbs from 'handlebars'
             traditional ? `{{zh-${simplified}.data.traditional}}` : undefined,
             `{{zh-${simplified}.data.pinyin}}`,
             `{{zh-${simplified}.data.english}}`,
-            `{{zh-${simplified}.data.sentence}}`
+            `{{{zh-${simplified}.data.sentence}}}`
           ].filter((el) => el).join('\n\n---\n\n')
         })
       },
@@ -124,7 +128,7 @@ import hbs from 'handlebars'
             `# ${simplified}`,
             traditional ? `{{zh-${simplified}.data.traditional}}` : undefined,
             `{{zh-${simplified}.data.pinyin}}`,
-            `{{zh-${simplified}.data.sentence}}`
+            `{{{zh-${simplified}.data.sentence}}}`
           ].filter((el) => el).join('\n\n---\n\n')
         })
       },
@@ -150,7 +154,7 @@ import hbs from 'handlebars'
               `# ${simplified}`,
               `{{zh-${simplified}.data.pinyin}}`,
               `{{zh-${simplified}.data.english}}`,
-              `{{zh-${simplified}.data.sentence}}`
+              `{{{zh-${simplified}.data.sentence}}}`
             ].filter((el) => el).join('\n\n---\n\n')
           })
         }

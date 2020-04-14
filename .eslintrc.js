@@ -23,6 +23,7 @@ module.exports = {
   ],
   rules: {
     'spaced-comment': 0,
-    quotes: 0
+    quotes: 0,
+    camelcase: 0
   }
 }

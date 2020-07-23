@@ -23,7 +23,7 @@
     "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
     "googleapis": "^39.2.0",
-    "handlebars": "^4.7.3",
+    "handlebars": "^4.7.6",
     "js-yaml": "^3.13.1",
     "mongodb": "^3.5.5",
     "nanoid": "^3.1.3",

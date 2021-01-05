@@ -18,7 +18,7 @@
     "@types/nanoid": "^2.1.0",
     "@types/node": "^13.9.8",
     "@types/shortid": "0.0.29",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "better-sqlite3": "^6.0.1",
     "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
